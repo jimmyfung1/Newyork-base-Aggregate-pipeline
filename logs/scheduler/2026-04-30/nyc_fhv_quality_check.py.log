@@ -1,0 +1,1061 @@
+[2026-04-30T08:41:06.455+0000] {processor.py:161} INFO - Started process (PID=89) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:41:06.458+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:41:06.462+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:06.461+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:41:06.518+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:41:06.909+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:06.903+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:nyc_fhv_quality_check
+[2026-04-30T08:41:06.955+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:06.954+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:nyc_fhv_quality_check
+[2026-04-30T08:41:06.970+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:06.970+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:nyc_fhv_quality_check
+[2026-04-30T08:41:06.973+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:06.972+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:41:07.098+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:07.097+0000] {dag.py:3118} INFO - Creating ORM DAG for nyc_fhv_quality_check
+[2026-04-30T08:41:07.108+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:07.108+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:41:07.203+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.762 seconds
+[2026-04-30T08:41:37.800+0000] {processor.py:161} INFO - Started process (PID=100) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:41:37.802+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:41:37.804+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:37.804+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:41:37.855+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:41:37.903+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:37.902+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:41:37.934+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:37.933+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:41:37.982+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.190 seconds
+[2026-04-30T08:42:08.801+0000] {processor.py:161} INFO - Started process (PID=111) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:42:08.803+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:42:08.807+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:08.806+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:42:08.864+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:42:08.913+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:08.912+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:42:08.940+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:08.940+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:42:09.003+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.213 seconds
+[2026-04-30T08:42:39.798+0000] {processor.py:161} INFO - Started process (PID=122) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:42:39.800+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:42:39.803+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:39.803+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:42:39.840+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:42:39.876+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:39.876+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:42:39.892+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:39.891+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:42:39.928+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.137 seconds
+[2026-04-30T08:43:10.634+0000] {processor.py:161} INFO - Started process (PID=133) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:43:10.637+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:43:10.642+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:10.642+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:43:10.681+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:43:10.715+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:10.714+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:43:10.743+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:10.742+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:43:10.780+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.161 seconds
+[2026-04-30T08:43:41.753+0000] {processor.py:161} INFO - Started process (PID=144) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:43:41.755+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:43:41.758+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:41.758+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:43:41.801+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:43:41.836+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:41.836+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:43:41.852+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:41.852+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:43:41.882+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.139 seconds
+[2026-04-30T08:44:12.620+0000] {processor.py:161} INFO - Started process (PID=155) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:44:12.622+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:44:12.626+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:12.626+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:44:12.664+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:44:12.700+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:12.700+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:44:12.719+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:12.719+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:44:12.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.147 seconds
+[2026-04-30T08:44:43.245+0000] {processor.py:161} INFO - Started process (PID=166) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:44:43.248+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:44:43.251+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:43.250+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:44:43.282+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:44:43.319+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:43.318+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:44:43.342+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:43.341+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:44:43.381+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.143 seconds
+[2026-04-30T08:45:14.163+0000] {processor.py:161} INFO - Started process (PID=177) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:45:14.166+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:45:14.172+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:14.171+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:45:14.215+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:45:14.260+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:14.260+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:45:14.286+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:14.285+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:45:14.328+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.174 seconds
+[2026-04-30T08:45:45.126+0000] {processor.py:161} INFO - Started process (PID=188) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:45:45.129+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:45:45.134+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:45.133+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:45:45.175+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:45:45.210+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:45.210+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:45:45.226+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:45.226+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:45:45.262+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.148 seconds
+[2026-04-30T08:46:16.152+0000] {processor.py:161} INFO - Started process (PID=199) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:46:16.155+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:46:16.160+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:16.160+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:46:16.197+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:46:16.234+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:16.233+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:46:16.252+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:16.252+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:46:16.290+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.147 seconds
+[2026-04-30T08:46:47.242+0000] {processor.py:161} INFO - Started process (PID=210) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:46:47.243+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:46:47.246+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:47.246+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:46:47.280+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:46:47.312+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:47.311+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:46:47.335+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:47.334+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:46:47.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.133 seconds
+[2026-04-30T08:47:17.476+0000] {processor.py:161} INFO - Started process (PID=222) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:47:17.479+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:47:17.482+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:17.482+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:47:17.521+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:47:17.554+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:17.554+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:47:17.572+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:17.571+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:47:17.604+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.142 seconds
+[2026-04-30T08:47:47.870+0000] {processor.py:161} INFO - Started process (PID=233) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:47:47.873+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:47:47.881+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:47.880+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:47:47.999+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:47:48.072+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:48.071+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:47:48.108+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:48.108+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:47:48.161+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.302 seconds
+[2026-04-30T08:48:18.487+0000] {processor.py:161} INFO - Started process (PID=245) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:48:18.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:48:18.493+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:18.492+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:48:18.658+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:48:18.706+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:18.706+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:48:18.737+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:18.736+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:48:18.809+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.339 seconds
+[2026-04-30T08:48:49.450+0000] {processor.py:161} INFO - Started process (PID=256) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:48:49.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:48:49.460+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:49.459+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:48:49.514+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:48:49.547+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:49.547+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:48:49.566+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:49.566+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:48:49.603+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.164 seconds
+[2026-04-30T08:49:20.320+0000] {processor.py:161} INFO - Started process (PID=267) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:49:20.321+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:49:20.325+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:20.324+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:49:20.361+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:49:20.392+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:20.392+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:49:20.411+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:20.411+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:49:20.447+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.138 seconds
+[2026-04-30T08:49:51.273+0000] {processor.py:161} INFO - Started process (PID=279) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:49:51.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:49:51.280+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:51.279+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:49:51.316+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:49:51.355+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:51.355+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:49:51.375+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:51.375+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:49:51.412+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.148 seconds
+[2026-04-30T08:50:27.154+0000] {processor.py:161} INFO - Started process (PID=83) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:50:27.157+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:50:27.163+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:27.162+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:50:27.204+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:50:27.249+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:27.249+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:50:27.269+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:27.269+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:50:27.305+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.159 seconds
+[2026-04-30T08:50:58.574+0000] {processor.py:161} INFO - Started process (PID=100) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:50:58.586+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:50:58.591+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:58.590+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:50:58.712+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:50:58.785+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:58.784+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:50:58.818+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:58.818+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:50:58.900+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.337 seconds
+[2026-04-30T08:51:29.886+0000] {processor.py:161} INFO - Started process (PID=111) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:51:29.895+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:51:29.899+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:51:29.899+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:51:30.002+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:51:30.073+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:51:30.072+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:51:30.134+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:51:30.134+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:51:30.208+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.339 seconds
+[2026-04-30T08:52:00.855+0000] {processor.py:161} INFO - Started process (PID=132) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:52:00.860+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:52:00.868+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:52:00.867+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:52:00.962+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:52:01.021+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:52:01.020+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:52:01.054+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:52:01.053+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:52:01.174+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.339 seconds
+[2026-04-30T08:53:06.235+0000] {processor.py:161} INFO - Started process (PID=89) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:53:06.238+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:53:06.242+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:06.241+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:53:06.344+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:53:06.402+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:06.402+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:53:06.430+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:06.430+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:53:06.477+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.252 seconds
+[2026-04-30T08:53:36.921+0000] {processor.py:161} INFO - Started process (PID=100) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:53:36.923+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:53:36.928+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:36.927+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:53:36.970+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:53:37.012+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:37.010+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:53:37.042+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:37.041+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:53:37.119+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.208 seconds
+[2026-04-30T08:54:07.927+0000] {processor.py:161} INFO - Started process (PID=111) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:54:07.930+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:54:07.935+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:07.933+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:54:08.015+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:54:08.078+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:08.077+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:54:08.114+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:08.114+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:54:08.168+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.254 seconds
+[2026-04-30T08:54:38.501+0000] {processor.py:161} INFO - Started process (PID=122) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:54:38.503+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:54:38.506+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:38.506+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:54:38.543+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:54:38.578+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:38.577+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:54:38.602+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:38.602+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:54:38.650+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.158 seconds
+[2026-04-30T08:55:09.255+0000] {processor.py:161} INFO - Started process (PID=134) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:55:09.268+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:55:09.277+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:55:09.276+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:55:09.361+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:55:09.408+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:55:09.408+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:55:09.443+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:55:09.442+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:55:09.492+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.258 seconds
+[2026-04-30T08:57:36.464+0000] {processor.py:161} INFO - Started process (PID=90) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:57:36.467+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:57:36.472+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:57:36.471+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:57:36.529+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:57:36.794+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:57:36.793+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:57:36.810+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:57:36.809+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:57:36.852+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.399 seconds
+[2026-04-30T08:58:07.921+0000] {processor.py:161} INFO - Started process (PID=101) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:58:07.923+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:58:07.933+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:07.932+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:58:08.093+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:58:08.142+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:08.141+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:58:08.173+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:08.173+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:58:08.213+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.301 seconds
+[2026-04-30T08:58:38.414+0000] {processor.py:161} INFO - Started process (PID=112) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:58:38.417+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:58:38.423+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:38.422+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:58:38.527+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:58:38.594+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:38.594+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:58:38.641+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:38.641+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:58:38.716+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.315 seconds
+[2026-04-30T08:59:09.595+0000] {processor.py:161} INFO - Started process (PID=123) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:59:09.598+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:59:09.607+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:09.607+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:59:09.684+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:59:09.746+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:09.745+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:59:09.799+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:09.798+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:59:09.857+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.280 seconds
+[2026-04-30T08:59:40.105+0000] {processor.py:161} INFO - Started process (PID=138) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:59:40.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T08:59:40.111+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:40.110+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:59:40.154+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T08:59:40.184+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:40.184+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:59:40.201+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:40.201+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T08:59:40.233+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.138 seconds
+[2026-04-30T09:00:11.010+0000] {processor.py:161} INFO - Started process (PID=148) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:00:11.012+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:00:11.015+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:11.014+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:00:11.056+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:00:11.088+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:11.087+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:00:11.103+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:11.103+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:00:11.133+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.131 seconds
+[2026-04-30T09:00:41.835+0000] {processor.py:161} INFO - Started process (PID=159) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:00:41.836+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:00:41.839+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:41.839+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:00:41.873+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:00:41.908+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:41.908+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:00:41.929+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:41.929+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:00:41.958+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.133 seconds
+[2026-04-30T09:01:12.683+0000] {processor.py:161} INFO - Started process (PID=170) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:01:12.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:01:12.694+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:12.693+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:01:12.740+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:01:12.778+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:12.777+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:01:12.800+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:12.800+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:01:12.843+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.168 seconds
+[2026-04-30T09:01:43.512+0000] {processor.py:161} INFO - Started process (PID=181) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:01:43.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:01:43.518+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:43.516+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:01:43.561+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:01:43.595+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:43.594+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:01:43.612+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:43.612+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:01:43.640+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.139 seconds
+[2026-04-30T09:02:14.498+0000] {processor.py:161} INFO - Started process (PID=192) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:02:14.500+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:02:14.504+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:14.503+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:02:14.543+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:02:14.591+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:14.591+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:02:14.618+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:14.618+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:02:14.655+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.168 seconds
+[2026-04-30T09:02:44.852+0000] {processor.py:161} INFO - Started process (PID=203) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:02:44.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:02:44.860+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:44.859+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:02:44.904+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:02:44.957+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:44.957+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:02:44.993+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:44.992+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:02:45.040+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.199 seconds
+[2026-04-30T09:03:15.152+0000] {processor.py:161} INFO - Started process (PID=214) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:03:15.154+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:03:15.156+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:15.156+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:03:15.201+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:03:15.233+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:15.232+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:03:15.252+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:15.251+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:03:15.287+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.145 seconds
+[2026-04-30T09:03:45.482+0000] {processor.py:161} INFO - Started process (PID=225) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:03:45.484+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:03:45.487+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:45.486+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:03:45.524+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:03:45.580+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:45.579+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:03:45.620+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:45.619+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:03:45.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.209 seconds
+[2026-04-30T09:04:15.917+0000] {processor.py:161} INFO - Started process (PID=236) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:04:15.924+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:04:15.928+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:15.927+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:04:16.011+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:04:16.062+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:16.061+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:04:16.096+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:16.095+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:04:16.156+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.255 seconds
+[2026-04-30T09:04:46.334+0000] {processor.py:161} INFO - Started process (PID=247) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:04:46.337+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:04:46.340+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:46.340+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:04:46.389+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:04:46.432+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:46.432+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:04:46.458+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:46.458+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:04:46.501+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.178 seconds
+[2026-04-30T09:05:16.838+0000] {processor.py:161} INFO - Started process (PID=258) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:05:16.840+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:05:16.844+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:16.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:05:16.877+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:05:16.915+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:16.914+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:05:16.938+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:16.938+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:05:16.975+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.145 seconds
+[2026-04-30T09:05:47.576+0000] {processor.py:161} INFO - Started process (PID=279) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:05:47.579+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:05:47.583+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:47.582+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:05:47.632+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:05:47.673+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:47.672+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:05:47.702+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:47.701+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:05:47.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.183 seconds
+[2026-04-30T09:06:18.032+0000] {processor.py:161} INFO - Started process (PID=301) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:06:18.035+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:06:18.038+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:18.037+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:06:18.073+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:06:18.108+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:18.108+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:06:18.125+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:18.125+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:06:18.168+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.146 seconds
+[2026-04-30T09:06:49.105+0000] {processor.py:161} INFO - Started process (PID=312) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:06:49.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:06:49.110+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:49.110+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:06:49.149+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:06:49.185+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:49.185+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:06:49.204+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:49.203+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:06:49.242+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.147 seconds
+[2026-04-30T09:07:19.457+0000] {processor.py:161} INFO - Started process (PID=324) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:07:19.459+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:07:19.462+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:19.461+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:07:19.507+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:07:19.548+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:19.547+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:07:19.572+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:19.572+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:07:19.609+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.161 seconds
+[2026-04-30T09:07:50.625+0000] {processor.py:161} INFO - Started process (PID=335) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:07:50.626+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:07:50.630+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:50.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:07:50.670+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:07:50.709+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:50.708+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:07:50.729+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:50.728+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:07:50.764+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.150 seconds
+[2026-04-30T09:08:21.616+0000] {processor.py:161} INFO - Started process (PID=346) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:08:21.619+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:08:21.623+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:21.622+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:08:21.667+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:08:21.713+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:21.712+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:08:21.738+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:21.737+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:08:21.797+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.191 seconds
+[2026-04-30T09:08:52.621+0000] {processor.py:161} INFO - Started process (PID=363) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:08:52.623+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:08:52.626+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:52.625+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:08:52.657+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:08:52.690+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:52.690+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:08:52.711+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:52.711+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:08:52.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.145 seconds
+[2026-04-30T09:09:23.673+0000] {processor.py:161} INFO - Started process (PID=374) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:09:23.675+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:09:23.681+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:23.680+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:09:23.722+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:09:23.760+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:23.760+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:09:23.784+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:23.784+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:09:23.820+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.156 seconds
+[2026-04-30T09:09:54.476+0000] {processor.py:161} INFO - Started process (PID=385) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:09:54.479+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:09:54.483+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:54.482+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:09:54.520+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:09:54.556+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:54.556+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:09:54.575+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:54.575+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:09:54.612+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.145 seconds
+[2026-04-30T09:10:24.763+0000] {processor.py:161} INFO - Started process (PID=396) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:10:24.765+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:10:24.769+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:24.769+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:10:24.814+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:10:24.851+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:24.850+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:10:24.873+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:24.872+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:10:24.906+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.154 seconds
+[2026-04-30T09:10:55.770+0000] {processor.py:161} INFO - Started process (PID=411) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:10:55.774+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:10:55.781+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:55.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:10:55.848+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:10:55.897+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:55.897+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:10:55.934+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:55.934+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:10:55.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.244 seconds
+[2026-04-30T09:11:26.246+0000] {processor.py:161} INFO - Started process (PID=422) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:11:26.252+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:11:26.259+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:26.258+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:11:26.459+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:11:26.521+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:26.520+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:11:26.558+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:26.558+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:11:26.862+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.630 seconds
+[2026-04-30T09:11:57.840+0000] {processor.py:161} INFO - Started process (PID=433) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:11:57.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:11:57.844+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:57.844+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:11:57.880+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:11:57.913+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:57.912+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:11:57.933+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:57.933+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:11:57.966+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.134 seconds
+[2026-04-30T09:12:28.570+0000] {processor.py:161} INFO - Started process (PID=444) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:12:28.572+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:12:28.575+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:28.574+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:12:28.606+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:12:28.638+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:28.637+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:12:28.659+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:28.658+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:12:28.689+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.127 seconds
+[2026-04-30T09:12:58.801+0000] {processor.py:161} INFO - Started process (PID=456) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:12:58.803+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:12:58.806+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:58.806+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:12:58.838+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:12:58.871+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:58.871+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:12:58.892+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:58.891+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:12:58.932+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.139 seconds
+[2026-04-30T09:13:29.215+0000] {processor.py:161} INFO - Started process (PID=467) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:13:29.217+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:13:29.220+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:29.219+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:13:29.267+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:13:29.306+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:29.305+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:13:29.326+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:29.325+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:13:29.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.160 seconds
+[2026-04-30T09:13:59.512+0000] {processor.py:161} INFO - Started process (PID=479) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:13:59.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:13:59.517+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:59.516+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:13:59.552+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:13:59.585+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:59.584+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:13:59.605+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:59.604+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:13:59.645+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.140 seconds
+[2026-04-30T09:14:30.435+0000] {processor.py:161} INFO - Started process (PID=490) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:14:30.437+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:14:30.441+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:14:30.440+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:14:30.484+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:14:30.523+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:14:30.523+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:14:30.543+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:14:30.543+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:14:30.575+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.154 seconds
+[2026-04-30T09:15:01.297+0000] {processor.py:161} INFO - Started process (PID=501) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:15:01.299+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:15:01.302+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:15:01.302+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:15:01.337+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:15:01.382+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:15:01.381+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:15:01.413+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:15:01.413+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:15:01.461+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.177 seconds
+[2026-04-30T09:15:32.218+0000] {processor.py:161} INFO - Started process (PID=512) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:15:32.220+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:15:32.223+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:15:32.222+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:15:32.257+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:15:32.293+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:15:32.293+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:15:32.311+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:15:32.311+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:15:32.345+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.137 seconds
+[2026-04-30T09:16:02.989+0000] {processor.py:161} INFO - Started process (PID=523) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:16:02.990+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:16:02.994+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:02.993+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:16:03.044+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:16:03.084+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:03.083+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:16:03.106+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:03.105+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:16:03.142+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.161 seconds
+[2026-04-30T09:16:34.042+0000] {processor.py:161} INFO - Started process (PID=535) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:16:34.047+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:16:34.050+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:34.050+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:16:34.081+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:16:34.111+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:34.111+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:16:34.129+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:34.129+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:16:34.158+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.124 seconds
+[2026-04-30T09:17:04.971+0000] {processor.py:161} INFO - Started process (PID=546) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:17:04.973+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:17:04.976+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:04.976+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:17:05.018+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:17:05.056+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:05.056+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:17:05.077+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:05.077+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:17:05.111+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.148 seconds
+[2026-04-30T09:17:35.828+0000] {processor.py:161} INFO - Started process (PID=557) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:17:35.830+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:17:35.834+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:35.834+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:17:35.870+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:17:35.913+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:35.912+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:17:35.933+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:35.933+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:17:35.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.145 seconds
+[2026-04-30T09:18:06.561+0000] {processor.py:161} INFO - Started process (PID=568) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:18:06.563+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:18:06.566+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:06.566+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:18:06.608+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:18:06.644+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:06.643+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:18:06.666+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:06.665+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:18:06.701+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.149 seconds
+[2026-04-30T09:18:37.523+0000] {processor.py:161} INFO - Started process (PID=579) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:18:37.525+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:18:37.529+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:37.528+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:18:37.573+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:18:37.611+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:37.611+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:18:37.629+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:37.629+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:18:37.665+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.151 seconds
+[2026-04-30T09:19:08.344+0000] {processor.py:161} INFO - Started process (PID=591) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:19:08.346+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:19:08.349+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:08.349+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:19:08.393+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:19:08.428+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:08.428+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:19:08.448+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:08.448+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:19:08.487+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.153 seconds
+[2026-04-30T09:19:38.661+0000] {processor.py:161} INFO - Started process (PID=602) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:19:38.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:19:38.666+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:38.665+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:19:38.699+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:19:38.734+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:38.734+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:19:38.755+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:38.755+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:19:38.794+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.140 seconds
+[2026-04-30T09:20:09.530+0000] {processor.py:161} INFO - Started process (PID=613) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:20:09.533+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:20:09.538+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:09.537+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:20:09.587+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:20:09.621+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:09.621+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:20:09.643+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:09.642+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:20:09.680+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.160 seconds
+[2026-04-30T09:20:40.634+0000] {processor.py:161} INFO - Started process (PID=624) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:20:40.635+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:20:40.638+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:40.638+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:20:40.682+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:20:40.720+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:40.720+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:20:40.743+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:40.742+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:20:40.782+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.158 seconds
+[2026-04-30T09:21:10.960+0000] {processor.py:161} INFO - Started process (PID=635) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:21:10.961+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:21:10.965+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:10.964+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:21:11.004+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:21:11.042+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:11.042+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:21:11.064+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:11.064+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:21:11.105+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.154 seconds
+[2026-04-30T09:21:42.173+0000] {processor.py:161} INFO - Started process (PID=646) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:21:42.176+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:21:42.181+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:42.180+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:21:42.256+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:21:42.307+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:42.306+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:21:42.336+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:42.336+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:21:42.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.227 seconds
+[2026-04-30T09:22:13.489+0000] {processor.py:161} INFO - Started process (PID=657) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:22:13.495+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:22:13.498+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:13.498+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:22:13.557+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:22:13.599+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:13.598+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:22:13.622+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:13.621+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:22:13.661+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.183 seconds
+[2026-04-30T09:22:44.227+0000] {processor.py:161} INFO - Started process (PID=669) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:22:44.228+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:22:44.231+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:44.231+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:22:44.267+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:22:44.304+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:44.304+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:22:44.326+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:44.326+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:22:44.363+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.144 seconds
+[2026-04-30T09:23:14.487+0000] {processor.py:161} INFO - Started process (PID=680) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:23:14.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:23:14.493+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:14.492+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:23:14.534+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:23:14.572+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:14.572+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:23:14.603+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:14.603+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:23:14.662+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.183 seconds
+[2026-04-30T09:23:45.472+0000] {processor.py:161} INFO - Started process (PID=691) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:23:45.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:23:45.481+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:45.480+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:23:45.530+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:23:45.565+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:45.565+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:23:45.583+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:45.583+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:23:45.617+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.156 seconds
+[2026-04-30T09:24:16.514+0000] {processor.py:161} INFO - Started process (PID=702) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:24:16.515+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:24:16.519+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:16.518+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:24:16.565+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:24:16.603+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:16.602+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:24:16.625+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:16.625+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:24:16.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.166 seconds
+[2026-04-30T09:24:47.585+0000] {processor.py:161} INFO - Started process (PID=713) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:24:47.587+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:24:47.591+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:47.590+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:24:47.630+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:24:47.668+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:47.667+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:24:47.690+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:47.690+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:24:47.727+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.150 seconds
+[2026-04-30T09:25:18.360+0000] {processor.py:161} INFO - Started process (PID=724) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:25:18.362+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:25:18.367+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:18.366+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:25:18.409+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:25:18.454+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:18.453+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:25:18.493+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:18.492+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:25:18.534+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.185 seconds
+[2026-04-30T09:25:49.377+0000] {processor.py:161} INFO - Started process (PID=735) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:25:49.379+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:25:49.383+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:49.382+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:25:49.419+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:25:49.457+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:49.457+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:25:49.484+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:49.484+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:25:49.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.155 seconds
+[2026-04-30T09:26:20.223+0000] {processor.py:161} INFO - Started process (PID=746) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:26:20.227+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:26:20.231+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:20.231+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:26:20.288+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:26:20.337+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:20.336+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:26:20.369+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:20.369+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:26:20.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.210 seconds
+[2026-04-30T09:26:50.683+0000] {processor.py:161} INFO - Started process (PID=757) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:26:50.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:26:50.694+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:50.693+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:26:50.754+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:26:50.793+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:50.792+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:26:50.815+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:50.814+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:26:50.850+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.183 seconds
+[2026-04-30T09:27:21.579+0000] {processor.py:161} INFO - Started process (PID=769) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:27:21.581+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:27:21.585+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:21.585+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:27:21.628+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:27:21.674+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:21.673+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:27:21.703+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:21.703+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:27:21.762+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.191 seconds
+[2026-04-30T09:27:52.350+0000] {processor.py:161} INFO - Started process (PID=780) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:27:52.354+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:27:52.358+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:52.358+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:27:52.414+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:27:52.451+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:52.450+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:27:52.468+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:52.468+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:27:52.502+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.163 seconds
+[2026-04-30T09:28:23.299+0000] {processor.py:161} INFO - Started process (PID=791) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:28:23.301+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:28:23.303+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:23.303+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:28:23.344+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:28:23.386+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:23.386+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:28:23.412+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:23.412+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:28:23.449+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.157 seconds
+[2026-04-30T09:28:53.547+0000] {processor.py:161} INFO - Started process (PID=802) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:28:53.549+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:28:53.553+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:53.552+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:28:53.596+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:28:53.627+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:53.627+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:28:53.645+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:53.645+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:28:53.682+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.145 seconds
+[2026-04-30T09:29:24.723+0000] {processor.py:161} INFO - Started process (PID=813) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:29:24.725+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:29:24.727+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:24.727+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:29:24.771+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:29:24.808+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:24.808+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:29:24.829+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:24.828+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:29:24.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.153 seconds
+[2026-04-30T09:29:55.857+0000] {processor.py:161} INFO - Started process (PID=824) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:29:55.861+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:29:55.868+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:55.867+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:29:55.944+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:29:55.991+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:55.990+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:29:56.019+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:56.018+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:29:56.060+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.219 seconds
+[2026-04-30T09:30:26.873+0000] {processor.py:161} INFO - Started process (PID=841) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:30:26.874+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:30:26.878+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:26.877+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:30:26.918+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:30:26.952+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:26.951+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:30:26.972+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:26.971+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:30:27.004+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.140 seconds
+[2026-04-30T09:30:57.912+0000] {processor.py:161} INFO - Started process (PID=852) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:30:57.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:30:57.922+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:57.921+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:30:57.984+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:30:58.021+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:58.020+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:30:58.047+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:58.046+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:30:58.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.191 seconds
+[2026-04-30T09:31:28.276+0000] {processor.py:161} INFO - Started process (PID=864) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:31:28.277+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:31:28.280+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:28.280+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:31:28.313+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:31:28.344+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:28.344+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:31:28.361+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:28.361+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:31:28.395+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.128 seconds
+[2026-04-30T09:31:59.204+0000] {processor.py:161} INFO - Started process (PID=875) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:31:59.206+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:31:59.210+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:59.209+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:31:59.242+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:31:59.279+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:59.278+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:31:59.298+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:59.298+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:31:59.334+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.138 seconds
+[2026-04-30T09:32:30.264+0000] {processor.py:161} INFO - Started process (PID=886) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:32:30.266+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:32:30.270+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:32:30.270+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:32:30.305+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:32:30.341+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:32:30.340+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:32:30.360+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:32:30.360+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:32:30.395+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.140 seconds
+[2026-04-30T09:33:01.293+0000] {processor.py:161} INFO - Started process (PID=897) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:33:01.296+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:33:01.300+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:01.299+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:33:01.346+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:33:01.389+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:01.388+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:33:01.422+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:01.421+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:33:01.463+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.182 seconds
+[2026-04-30T09:33:32.296+0000] {processor.py:161} INFO - Started process (PID=908) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:33:32.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:33:32.311+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:32.308+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:33:32.407+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:33:32.475+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:32.474+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:33:32.515+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:32.515+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:33:32.565+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.281 seconds
+[2026-04-30T09:34:03.487+0000] {processor.py:161} INFO - Started process (PID=919) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:34:03.488+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:34:03.493+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:34:03.492+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:34:03.538+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:34:03.581+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:34:03.581+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:34:03.602+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:34:03.602+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:34:03.639+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.161 seconds
+[2026-04-30T09:34:34.549+0000] {processor.py:161} INFO - Started process (PID=930) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:34:34.551+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:34:34.554+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:34:34.553+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:34:34.595+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:34:34.651+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:34:34.651+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:34:34.696+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:34:34.695+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:34:34.781+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.242 seconds
+[2026-04-30T09:35:05.067+0000] {processor.py:161} INFO - Started process (PID=942) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:35:05.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:35:05.073+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:05.073+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:35:05.108+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:35:05.141+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:05.141+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:35:05.158+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:05.157+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:35:05.191+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.134 seconds
+[2026-04-30T09:35:35.445+0000] {processor.py:161} INFO - Started process (PID=953) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:35:35.448+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:35:35.452+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:35.451+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:35:35.496+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:35:35.537+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:35.536+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:35:35.567+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:35.567+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:35:35.610+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.178 seconds
+[2026-04-30T09:36:05.718+0000] {processor.py:161} INFO - Started process (PID=965) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:36:05.720+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:36:05.723+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:05.722+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:36:05.759+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:36:05.789+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:05.789+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:36:05.810+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:05.810+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:36:05.842+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.136 seconds
+[2026-04-30T09:36:36.455+0000] {processor.py:161} INFO - Started process (PID=975) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:36:36.456+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:36:36.460+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:36.459+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:36:36.493+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:36:36.530+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:36.529+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:36:36.550+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:36.550+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:36:36.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.136 seconds
+[2026-04-30T09:37:06.872+0000] {processor.py:161} INFO - Started process (PID=986) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:37:06.874+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:37:06.877+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:06.876+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:37:06.913+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:37:06.949+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:06.949+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:37:06.969+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:06.969+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:37:07.003+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.139 seconds
+[2026-04-30T09:37:38.012+0000] {processor.py:161} INFO - Started process (PID=997) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:37:38.015+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:37:38.020+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:38.019+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:37:38.062+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:37:38.098+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:38.098+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:37:38.117+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:38.117+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:37:38.148+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.145 seconds
+[2026-04-30T09:38:08.847+0000] {processor.py:161} INFO - Started process (PID=1008) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:38:08.849+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:38:08.852+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:08.852+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:38:08.890+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:38:08.925+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:08.925+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:38:08.944+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:08.944+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:38:08.974+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.139 seconds
+[2026-04-30T09:38:39.066+0000] {processor.py:161} INFO - Started process (PID=1019) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:38:39.068+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:38:39.070+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:39.070+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:38:39.107+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:38:39.146+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:39.145+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:38:39.166+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:39.165+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:38:39.216+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.158 seconds
+[2026-04-30T09:39:10.237+0000] {processor.py:161} INFO - Started process (PID=1030) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:39:10.240+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:39:10.243+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:10.242+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:39:10.277+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:39:10.312+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:10.311+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:39:10.332+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:10.332+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:39:10.363+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.135 seconds
+[2026-04-30T09:39:41.188+0000] {processor.py:161} INFO - Started process (PID=1041) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:39:41.190+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:39:41.193+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:41.192+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:39:41.225+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:39:41.259+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:41.258+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:39:41.279+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:41.279+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:39:41.310+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.130 seconds
+[2026-04-30T09:40:12.145+0000] {processor.py:161} INFO - Started process (PID=1052) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:40:12.146+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:40:12.150+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:12.149+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:40:12.183+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:40:12.227+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:12.226+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:40:12.249+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:12.249+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:40:12.288+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.152 seconds
+[2026-04-30T09:40:43.126+0000] {processor.py:161} INFO - Started process (PID=1063) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:40:43.127+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:40:43.130+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:43.130+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:40:43.169+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:40:43.199+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:43.198+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:40:43.216+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:43.216+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:40:43.249+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.132 seconds
+[2026-04-30T09:41:13.923+0000] {processor.py:161} INFO - Started process (PID=1074) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:41:13.925+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:41:13.929+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:13.928+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:41:13.965+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:41:14.011+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:14.011+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:41:14.035+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:14.034+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:41:14.074+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.162 seconds
+[2026-04-30T09:41:44.763+0000] {processor.py:161} INFO - Started process (PID=1085) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:41:44.765+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:41:44.768+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:44.768+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:41:44.798+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:41:44.832+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:44.832+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:41:44.866+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:44.865+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:41:44.919+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.163 seconds
+[2026-04-30T09:42:15.585+0000] {processor.py:161} INFO - Started process (PID=1096) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:42:15.587+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:42:15.592+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:15.591+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:42:15.628+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:42:15.664+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:15.664+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:42:15.683+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:15.683+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:42:15.716+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.139 seconds
+[2026-04-30T09:42:46.129+0000] {processor.py:161} INFO - Started process (PID=1107) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:42:46.132+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:42:46.135+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:46.134+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:42:46.184+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:42:46.218+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:46.218+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:42:46.238+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:46.237+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:42:46.271+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.150 seconds
+[2026-04-30T09:43:17.012+0000] {processor.py:161} INFO - Started process (PID=1118) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:43:17.014+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:43:17.017+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:17.016+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:43:17.048+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:43:17.084+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:17.083+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:43:17.101+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:17.101+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:43:17.131+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.126 seconds
+[2026-04-30T09:43:47.415+0000] {processor.py:161} INFO - Started process (PID=1129) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:43:47.416+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:43:47.419+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:47.419+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:43:47.473+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:43:47.506+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:47.506+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:43:47.523+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:47.523+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:43:47.555+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.152 seconds
+[2026-04-30T09:44:18.385+0000] {processor.py:161} INFO - Started process (PID=1141) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:44:18.387+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:44:18.391+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:18.390+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:44:18.428+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:44:18.463+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:18.463+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:44:18.482+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:18.482+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:44:18.518+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.145 seconds
+[2026-04-30T09:44:49.217+0000] {processor.py:161} INFO - Started process (PID=1152) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:44:49.219+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:44:49.222+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:49.222+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:44:49.263+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:44:49.301+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:49.301+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:44:49.325+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:49.325+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:44:49.368+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.162 seconds
+[2026-04-30T09:45:20.254+0000] {processor.py:161} INFO - Started process (PID=1163) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:45:20.256+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:45:20.262+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:20.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:45:20.304+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:45:20.337+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:20.337+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:45:20.360+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:20.359+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:45:20.394+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.149 seconds
+[2026-04-30T09:45:51.045+0000] {processor.py:161} INFO - Started process (PID=1174) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:45:51.047+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:45:51.051+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:51.050+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:45:51.107+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:45:51.158+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:51.158+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:45:51.185+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:51.185+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:45:51.226+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.189 seconds
+[2026-04-30T09:46:22.043+0000] {processor.py:161} INFO - Started process (PID=1185) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:46:22.046+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:46:22.049+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:22.049+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:46:22.084+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:46:22.120+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:22.120+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:46:22.140+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:22.140+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:46:22.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.148 seconds
+[2026-04-30T09:46:52.320+0000] {processor.py:161} INFO - Started process (PID=1196) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:46:52.322+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:46:52.325+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:52.325+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:46:52.367+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:46:52.406+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:52.405+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:46:52.427+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:52.426+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:46:52.467+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.156 seconds
+[2026-04-30T09:47:23.185+0000] {processor.py:161} INFO - Started process (PID=1207) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:47:23.188+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:47:23.195+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:23.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:47:23.272+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:47:23.324+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:23.323+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:47:23.348+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:23.348+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:47:23.396+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.227 seconds
+[2026-04-30T09:47:54.350+0000] {processor.py:161} INFO - Started process (PID=1218) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:47:54.351+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:47:54.355+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:54.354+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:47:54.398+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:47:54.438+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:54.438+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:47:54.461+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:54.460+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:47:54.512+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.172 seconds
+[2026-04-30T09:48:24.641+0000] {processor.py:161} INFO - Started process (PID=1229) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:48:24.643+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:48:24.646+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:24.646+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:48:24.685+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:48:24.728+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:24.728+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:48:24.757+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:24.756+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:48:24.801+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.168 seconds
+[2026-04-30T09:48:55.592+0000] {processor.py:161} INFO - Started process (PID=1240) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:48:55.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:48:55.598+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:55.597+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:48:55.637+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:48:55.675+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:55.675+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:48:55.717+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:55.715+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:48:55.792+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.210 seconds
+[2026-04-30T09:49:26.757+0000] {processor.py:161} INFO - Started process (PID=1251) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:49:26.759+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:49:26.766+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:26.765+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:49:26.806+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:49:26.841+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:26.841+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:49:26.859+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:26.859+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:49:26.892+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.144 seconds
+[2026-04-30T09:49:57.121+0000] {processor.py:161} INFO - Started process (PID=1262) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:49:57.123+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:49:57.128+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:57.127+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:49:57.171+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:49:57.212+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:57.212+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:49:57.239+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:57.239+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:49:57.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.174 seconds
+[2026-04-30T09:50:27.847+0000] {processor.py:161} INFO - Started process (PID=1273) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:50:27.849+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:50:27.852+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:27.851+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:50:27.892+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:50:27.928+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:27.927+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:50:27.951+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:27.951+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:50:28.014+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.174 seconds
+[2026-04-30T09:50:58.646+0000] {processor.py:161} INFO - Started process (PID=1284) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:50:58.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:50:58.655+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:58.655+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:50:58.691+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:50:58.729+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:58.729+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:50:58.748+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:58.748+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:50:58.794+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.157 seconds
+[2026-04-30T09:51:28.909+0000] {processor.py:161} INFO - Started process (PID=1295) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:51:28.912+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:51:28.916+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:28.915+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:51:28.970+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:51:29.009+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:29.009+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:51:29.029+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:29.028+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:51:29.064+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.166 seconds
+[2026-04-30T09:51:59.165+0000] {processor.py:161} INFO - Started process (PID=1307) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:51:59.167+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:51:59.171+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:59.171+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:51:59.238+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:51:59.289+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:59.289+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:51:59.341+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:59.341+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:51:59.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.229 seconds
+[2026-04-30T09:52:29.592+0000] {processor.py:161} INFO - Started process (PID=1318) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:52:29.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:52:29.597+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:52:29.597+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:52:29.646+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:52:29.695+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:52:29.695+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:52:29.723+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:52:29.722+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:52:29.770+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.187 seconds
+[2026-04-30T09:52:59.892+0000] {processor.py:161} INFO - Started process (PID=1329) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:52:59.894+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:52:59.898+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:52:59.897+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:52:59.949+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:52:59.981+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:52:59.980+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:53:00.007+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:53:00.007+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:53:00.090+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.209 seconds
+[2026-04-30T09:53:30.179+0000] {processor.py:161} INFO - Started process (PID=1340) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:53:30.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:53:30.184+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:53:30.183+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:53:30.216+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:53:30.249+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:53:30.249+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:53:30.269+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:53:30.269+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:53:30.310+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.139 seconds
+[2026-04-30T09:54:01.348+0000] {processor.py:161} INFO - Started process (PID=1351) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:54:01.359+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:54:01.364+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:01.364+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:54:01.413+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:54:01.452+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:01.452+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:54:01.479+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:01.479+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:54:01.747+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.409 seconds
+[2026-04-30T09:54:31.993+0000] {processor.py:161} INFO - Started process (PID=1368) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:54:31.995+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:54:31.997+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:31.997+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:54:32.033+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:54:32.288+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:32.287+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:54:32.302+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:32.302+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:54:32.333+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.349 seconds
+[2026-04-30T09:55:03.271+0000] {processor.py:161} INFO - Started process (PID=1380) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:55:03.277+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:55:03.284+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:03.283+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:55:03.377+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:55:03.437+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:03.436+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:55:03.478+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:03.478+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:55:03.540+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.283 seconds
+[2026-04-30T09:55:34.282+0000] {processor.py:161} INFO - Started process (PID=1390) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:55:34.284+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:55:34.287+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:34.286+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:55:34.323+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:55:34.360+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:34.360+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:55:34.380+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:34.380+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:55:34.654+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.381 seconds
+[2026-04-30T09:56:05.310+0000] {processor.py:161} INFO - Started process (PID=1401) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:56:05.312+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:56:05.319+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:05.319+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:56:05.369+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:56:05.741+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:05.741+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:56:05.778+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:05.778+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:56:05.836+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.535 seconds
+[2026-04-30T09:56:36.402+0000] {processor.py:161} INFO - Started process (PID=1412) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:56:36.405+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:56:36.408+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:36.407+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:56:36.447+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:56:36.485+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:36.485+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:56:36.506+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:36.505+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:56:36.541+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.148 seconds
+[2026-04-30T09:57:07.345+0000] {processor.py:161} INFO - Started process (PID=1423) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:57:07.347+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:57:07.349+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:07.349+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:57:07.386+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:57:07.421+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:07.420+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:57:07.440+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:07.440+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:57:07.641+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.303 seconds
+[2026-04-30T09:57:38.161+0000] {processor.py:161} INFO - Started process (PID=1433) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:57:38.163+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:57:38.166+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:38.166+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:57:38.204+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:57:38.444+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:38.443+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:57:38.464+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:38.464+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:57:38.497+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.344 seconds
+[2026-04-30T09:58:09.608+0000] {processor.py:161} INFO - Started process (PID=1444) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:58:09.610+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:58:09.614+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:09.614+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:58:09.662+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:58:09.707+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:09.707+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:58:09.732+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:09.731+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:58:09.774+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.178 seconds
+[2026-04-30T09:58:39.884+0000] {processor.py:161} INFO - Started process (PID=1455) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:58:39.887+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:58:39.893+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:39.892+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:58:39.931+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:58:39.969+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:39.968+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:58:39.990+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:39.990+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:58:40.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.361 seconds
+[2026-04-30T09:59:10.596+0000] {processor.py:161} INFO - Started process (PID=1466) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:59:10.599+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:59:10.602+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:10.602+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:59:10.635+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:59:10.866+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:10.865+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:59:10.880+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:10.879+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:59:10.911+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.323 seconds
+[2026-04-30T09:59:41.364+0000] {processor.py:161} INFO - Started process (PID=1477) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:59:41.366+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T09:59:41.370+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:41.369+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:59:41.409+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T09:59:41.447+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:41.447+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:59:41.467+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:41.467+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T09:59:41.501+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.144 seconds
+[2026-04-30T10:00:11.853+0000] {processor.py:161} INFO - Started process (PID=1488) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T10:00:11.857+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T10:00:11.861+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:11.861+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T10:00:11.914+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T10:00:11.959+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:11.959+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T10:00:12.036+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:12.035+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T10:00:12.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.252 seconds
+[2026-04-30T10:00:42.333+0000] {processor.py:161} INFO - Started process (PID=1500) to work on /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T10:00:42.335+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_quality_check.py for tasks to queue
+[2026-04-30T10:00:42.338+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:42.337+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T10:00:42.382+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_quality_check' retrieved from /opt/airflow/dags/nyc_fhv_quality_check.py
+[2026-04-30T10:00:42.414+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:42.413+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T10:00:42.431+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:42.430+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_quality_check to None, run_after=None
+[2026-04-30T10:00:42.460+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_quality_check.py took 0.144 seconds

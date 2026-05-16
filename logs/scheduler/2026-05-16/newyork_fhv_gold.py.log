@@ -1,0 +1,364 @@
+[2026-05-16T02:42:43.877+0000] {processor.py:161} INFO - Started process (PID=81) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:42:43.879+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:42:43.883+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:42:43.883+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:42:43.922+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:42:44.189+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:42:44.189+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:42:44.203+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:42:44.203+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:42:44.231+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.362 seconds
+[2026-05-16T02:43:15.078+0000] {processor.py:161} INFO - Started process (PID=92) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:43:15.080+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:43:15.082+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:43:15.082+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:43:15.110+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:43:15.136+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:43:15.136+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:43:15.151+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:43:15.151+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:43:15.177+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.106 seconds
+[2026-05-16T02:43:45.953+0000] {processor.py:161} INFO - Started process (PID=103) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:43:45.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:43:45.962+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:43:45.961+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:43:46.013+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:43:46.044+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:43:46.044+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:43:46.067+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:43:46.067+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:43:46.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.157 seconds
+[2026-05-16T02:44:16.879+0000] {processor.py:161} INFO - Started process (PID=114) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:44:16.881+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:44:16.886+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:44:16.885+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:44:16.927+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:44:16.963+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:44:16.962+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:44:16.996+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:44:16.995+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:44:17.031+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.162 seconds
+[2026-05-16T02:44:47.804+0000] {processor.py:161} INFO - Started process (PID=125) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:44:47.807+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:44:47.812+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:44:47.811+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:44:47.854+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:44:47.877+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:44:47.877+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:44:47.891+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:44:47.891+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:44:47.915+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.122 seconds
+[2026-05-16T02:45:18.731+0000] {processor.py:161} INFO - Started process (PID=142) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:45:18.733+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:45:18.736+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:45:18.736+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:45:18.777+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:45:18.822+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:45:18.822+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:45:18.841+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:45:18.841+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:45:18.872+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.151 seconds
+[2026-05-16T02:45:49.644+0000] {processor.py:161} INFO - Started process (PID=153) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:45:49.646+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:45:49.649+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:45:49.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:45:49.676+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:45:49.696+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:45:49.696+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:45:49.711+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:45:49.710+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:45:49.737+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.104 seconds
+[2026-05-16T02:46:20.634+0000] {processor.py:161} INFO - Started process (PID=165) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:46:20.637+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:46:20.641+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:46:20.641+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:46:20.684+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:46:20.717+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:46:20.716+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:46:20.733+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:46:20.732+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:46:20.762+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.137 seconds
+[2026-05-16T02:46:51.577+0000] {processor.py:161} INFO - Started process (PID=176) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:46:51.579+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:46:51.583+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:46:51.582+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:46:51.637+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:46:51.673+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:46:51.673+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:46:51.689+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:46:51.688+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:46:51.717+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.150 seconds
+[2026-05-16T02:47:22.606+0000] {processor.py:161} INFO - Started process (PID=187) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:47:22.608+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:47:22.612+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:47:22.611+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:47:22.663+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:47:22.701+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:47:22.701+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:47:22.720+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:47:22.720+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:47:22.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.158 seconds
+[2026-05-16T02:47:52.921+0000] {processor.py:161} INFO - Started process (PID=198) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:47:52.924+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:47:52.929+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:47:52.928+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:47:52.981+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:47:53.018+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:47:53.017+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:47:53.046+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:47:53.046+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:47:53.088+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.179 seconds
+[2026-05-16T02:48:23.520+0000] {processor.py:161} INFO - Started process (PID=209) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:48:23.523+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:48:23.527+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:48:23.527+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:48:23.572+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:48:23.608+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:48:23.608+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:48:23.625+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:48:23.625+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:48:23.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.145 seconds
+[2026-05-16T02:48:54.533+0000] {processor.py:161} INFO - Started process (PID=220) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:48:54.535+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:48:54.538+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:48:54.537+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:48:54.570+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:48:54.595+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:48:54.594+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:48:54.610+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:48:54.609+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:48:54.640+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.113 seconds
+[2026-05-16T02:49:25.490+0000] {processor.py:161} INFO - Started process (PID=231) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:49:25.493+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:49:25.499+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:49:25.498+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:49:25.561+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:49:25.592+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:49:25.592+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:49:25.609+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:49:25.609+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:49:25.646+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.174 seconds
+[2026-05-16T02:49:55.981+0000] {processor.py:161} INFO - Started process (PID=242) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:49:55.984+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:49:55.988+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:49:55.987+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:49:56.032+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:49:56.084+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:49:56.084+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:49:56.106+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:49:56.106+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:49:56.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.174 seconds
+[2026-05-16T02:50:26.679+0000] {processor.py:161} INFO - Started process (PID=253) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:50:26.681+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:50:26.685+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:50:26.685+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:50:26.740+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:50:26.779+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:50:26.778+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:50:26.795+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:50:26.795+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:50:26.841+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.170 seconds
+[2026-05-16T02:50:57.264+0000] {processor.py:161} INFO - Started process (PID=264) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:50:57.266+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:50:57.271+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:50:57.270+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:50:57.313+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:50:57.356+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:50:57.355+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:50:57.391+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:50:57.390+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:50:57.442+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.187 seconds
+[2026-05-16T02:51:27.537+0000] {processor.py:161} INFO - Started process (PID=280) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:51:27.538+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:51:27.543+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:51:27.543+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:51:27.605+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:51:27.636+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:51:27.635+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:51:27.652+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:51:27.651+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:51:27.675+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.148 seconds
+[2026-05-16T02:51:57.751+0000] {processor.py:161} INFO - Started process (PID=291) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:51:57.762+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:51:57.767+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:51:57.766+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:51:57.795+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:51:57.823+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:51:57.822+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:51:57.836+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:51:57.836+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:51:57.863+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.120 seconds
+[2026-05-16T02:52:28.028+0000] {processor.py:161} INFO - Started process (PID=302) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:52:28.030+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:52:28.034+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:52:28.033+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:52:28.093+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:52:28.127+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:52:28.126+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:52:28.152+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:52:28.151+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:52:28.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.175 seconds
+[2026-05-16T02:52:59.232+0000] {processor.py:161} INFO - Started process (PID=313) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:52:59.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:52:59.238+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:52:59.237+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:52:59.322+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:52:59.350+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:52:59.349+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:52:59.369+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:52:59.369+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:52:59.395+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.175 seconds
+[2026-05-16T02:53:29.483+0000] {processor.py:161} INFO - Started process (PID=324) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:53:29.485+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:53:29.488+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:53:29.488+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:53:29.541+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:53:29.575+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:53:29.575+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:53:29.595+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:53:29.595+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:53:29.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.170 seconds
+[2026-05-16T02:53:59.867+0000] {processor.py:161} INFO - Started process (PID=335) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:53:59.870+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:53:59.874+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:53:59.873+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:53:59.910+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:53:59.943+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:53:59.943+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:53:59.964+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:53:59.963+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:53:59.991+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.135 seconds
+[2026-05-16T02:54:30.268+0000] {processor.py:161} INFO - Started process (PID=346) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:54:30.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:54:30.273+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:54:30.273+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:54:30.318+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:54:30.347+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:54:30.346+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:54:30.361+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:54:30.360+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:54:30.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.127 seconds
+[2026-05-16T02:55:01.011+0000] {processor.py:161} INFO - Started process (PID=357) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:55:01.014+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:55:01.020+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:55:01.019+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:55:01.078+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:55:01.113+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:55:01.112+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:55:01.132+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:55:01.132+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:55:01.162+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.167 seconds
+[2026-05-16T02:55:31.918+0000] {processor.py:161} INFO - Started process (PID=368) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:55:31.920+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:55:31.922+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:55:31.922+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:55:31.955+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:55:31.984+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:55:31.984+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:55:32.000+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:55:32.000+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:55:32.025+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.116 seconds
+[2026-05-16T02:56:02.742+0000] {processor.py:161} INFO - Started process (PID=379) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:56:02.744+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:56:02.746+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:56:02.746+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:56:02.780+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:56:02.821+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:56:02.820+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:56:02.836+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:56:02.835+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:56:02.861+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.126 seconds
+[2026-05-16T02:56:33.828+0000] {processor.py:161} INFO - Started process (PID=390) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:56:33.831+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:56:33.834+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:56:33.834+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:56:33.879+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:56:33.917+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:56:33.916+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:56:33.932+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:56:33.932+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:56:33.958+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.140 seconds
+[2026-05-16T02:57:04.622+0000] {processor.py:161} INFO - Started process (PID=401) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:57:04.624+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:57:04.627+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:57:04.627+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:57:04.647+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:57:04.666+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:57:04.666+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:57:04.681+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:57:04.680+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:57:04.702+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.090 seconds
+[2026-05-16T02:57:35.433+0000] {processor.py:161} INFO - Started process (PID=412) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:57:35.436+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:57:35.438+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:57:35.438+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:57:35.478+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:57:35.503+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:57:35.503+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:57:35.518+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:57:35.518+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:57:35.544+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.118 seconds
+[2026-05-16T02:58:06.376+0000] {processor.py:161} INFO - Started process (PID=424) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:58:06.379+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:58:06.381+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:58:06.380+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:58:06.413+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:58:06.446+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:58:06.446+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:58:06.461+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:58:06.460+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:58:06.492+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.127 seconds
+[2026-05-16T02:58:37.209+0000] {processor.py:161} INFO - Started process (PID=435) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:58:37.211+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:58:37.215+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:58:37.215+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:58:37.253+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:58:37.279+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:58:37.279+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:58:37.292+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:58:37.291+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:58:37.314+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.112 seconds
+[2026-05-16T02:59:07.881+0000] {processor.py:161} INFO - Started process (PID=446) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:59:07.883+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:59:07.891+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:59:07.891+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:59:07.921+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:59:07.948+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:59:07.947+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:59:07.965+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:59:07.965+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:59:07.990+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.117 seconds
+[2026-05-16T02:59:38.655+0000] {processor.py:161} INFO - Started process (PID=457) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:59:38.657+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T02:59:38.661+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:59:38.660+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:59:38.702+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T02:59:38.729+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:59:38.729+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T02:59:38.743+0000] {logging_mixin.py:188} INFO - [2026-05-16T02:59:38.742+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T02:59:38.767+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.122 seconds
+[2026-05-16T03:00:09.457+0000] {processor.py:161} INFO - Started process (PID=468) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:00:09.459+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:00:09.462+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:00:09.461+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:00:09.505+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:00:09.531+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:00:09.530+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:00:09.544+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:00:09.544+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:00:09.569+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.123 seconds
+[2026-05-16T03:00:40.599+0000] {processor.py:161} INFO - Started process (PID=479) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:00:40.601+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:00:40.605+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:00:40.604+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:00:40.650+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:00:40.682+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:00:40.681+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:00:40.704+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:00:40.703+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:00:40.741+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.152 seconds
+[2026-05-16T03:01:11.382+0000] {processor.py:161} INFO - Started process (PID=490) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:01:11.384+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:01:11.387+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:01:11.387+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:01:11.426+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:01:11.468+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:01:11.467+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:01:11.484+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:01:11.484+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:01:11.512+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.139 seconds
+[2026-05-16T03:01:42.224+0000] {processor.py:161} INFO - Started process (PID=501) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:01:42.226+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:01:42.229+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:01:42.228+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:01:42.251+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:01:42.286+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:01:42.286+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:01:42.300+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:01:42.300+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:01:42.327+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.112 seconds
+[2026-05-16T03:02:13.027+0000] {processor.py:161} INFO - Started process (PID=512) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:02:13.030+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:02:13.032+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:02:13.031+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:02:13.074+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:02:13.106+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:02:13.105+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:02:13.122+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:02:13.122+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:02:13.152+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.133 seconds
+[2026-05-16T03:02:43.908+0000] {processor.py:161} INFO - Started process (PID=523) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:02:43.910+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:02:43.913+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:02:43.912+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:02:43.968+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:02:44.003+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:02:44.003+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:02:44.024+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:02:44.023+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:02:44.057+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.161 seconds
+[2026-05-16T03:03:14.741+0000] {processor.py:161} INFO - Started process (PID=534) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:03:14.743+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:03:14.747+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:03:14.746+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:03:14.780+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:03:14.806+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:03:14.806+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:03:14.820+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:03:14.820+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:03:14.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.117 seconds
+[2026-05-16T03:03:45.597+0000] {processor.py:161} INFO - Started process (PID=545) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:03:45.598+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:03:45.600+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:03:45.600+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:03:45.630+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:03:45.655+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:03:45.655+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:03:45.670+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:03:45.669+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:03:45.699+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.108 seconds
+[2026-05-16T03:04:16.446+0000] {processor.py:161} INFO - Started process (PID=556) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:04:16.447+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:04:16.450+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:04:16.450+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:04:16.471+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:04:16.492+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:04:16.492+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:04:16.505+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:04:16.505+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:04:16.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.098 seconds
+[2026-05-16T03:04:47.209+0000] {processor.py:161} INFO - Started process (PID=567) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:04:47.211+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:04:47.214+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:04:47.213+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:04:47.247+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:04:47.274+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:04:47.274+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:04:47.289+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:04:47.289+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:04:47.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.112 seconds
+[2026-05-16T03:05:17.955+0000] {processor.py:161} INFO - Started process (PID=578) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:05:17.958+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:05:17.965+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:05:17.964+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:05:18.016+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:05:18.046+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:05:18.045+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:05:18.069+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:05:18.069+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:05:18.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.170 seconds
+[2026-05-16T03:05:49.108+0000] {processor.py:161} INFO - Started process (PID=589) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:05:49.110+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:05:49.112+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:05:49.112+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:05:49.148+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:05:49.178+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:05:49.178+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:05:49.199+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:05:49.199+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:05:49.233+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.132 seconds
+[2026-05-16T03:06:19.864+0000] {processor.py:161} INFO - Started process (PID=600) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:06:19.865+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:06:19.869+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:06:19.868+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:06:19.889+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:06:19.914+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:06:19.914+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:06:19.931+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:06:19.930+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:06:19.956+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.100 seconds
+[2026-05-16T03:06:50.598+0000] {processor.py:161} INFO - Started process (PID=611) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:06:50.600+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:06:50.603+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:06:50.602+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:06:50.646+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:06:50.682+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:06:50.682+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:06:50.696+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:06:50.696+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:06:50.721+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.131 seconds
+[2026-05-16T03:07:21.418+0000] {processor.py:161} INFO - Started process (PID=622) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:07:21.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:07:21.424+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:07:21.423+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:07:21.463+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:07:21.489+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:07:21.489+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:07:21.509+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:07:21.509+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:07:21.546+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.139 seconds
+[2026-05-16T03:07:52.558+0000] {processor.py:161} INFO - Started process (PID=633) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:07:52.560+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:07:52.563+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:07:52.562+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:07:52.590+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:07:52.613+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:07:52.613+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:07:52.627+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:07:52.627+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:07:52.652+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.102 seconds
+[2026-05-16T03:08:23.321+0000] {processor.py:161} INFO - Started process (PID=644) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:08:23.322+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:08:23.328+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:08:23.327+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:08:23.349+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:08:23.370+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:08:23.370+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:08:23.385+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:08:23.385+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:08:23.408+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.095 seconds
+[2026-05-16T03:08:54.183+0000] {processor.py:161} INFO - Started process (PID=661) to work on /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:08:54.185+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_gold.py for tasks to queue
+[2026-05-16T03:08:54.187+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:08:54.187+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:08:54.221+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_gold' retrieved from /opt/airflow/dags/newyork_fhv_gold.py
+[2026-05-16T03:08:54.249+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:08:54.249+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-16T03:08:54.263+0000] {logging_mixin.py:188} INFO - [2026-05-16T03:08:54.262+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_gold to None, run_after=None
+[2026-05-16T03:08:54.289+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_gold.py took 0.115 seconds

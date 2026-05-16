@@ -1,0 +1,7 @@
+[2026-05-02T14:43:14.343+0000] {processor.py:161} INFO - Started process (PID=93) to work on /opt/airflow/dags/nyc_fhv_pipeline.py
+[2026-05-02T14:43:14.346+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_pipeline.py for tasks to queue
+[2026-05-02T14:43:14.351+0000] {logging_mixin.py:188} INFO - [2026-05-02T14:43:14.350+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_pipeline.py
+[2026-05-02T14:43:14.476+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_pipeline' retrieved from /opt/airflow/dags/nyc_fhv_pipeline.py
+[2026-05-02T14:43:14.575+0000] {logging_mixin.py:188} INFO - [2026-05-02T14:43:14.574+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-02T14:43:14.683+0000] {logging_mixin.py:188} INFO - [2026-05-02T14:43:14.683+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_pipeline to 2026-05-01 00:00:00+00:00, run_after=2026-06-01 00:00:00+00:00
+[2026-05-02T14:43:14.803+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_pipeline.py took 0.494 seconds

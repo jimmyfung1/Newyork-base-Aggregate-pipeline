@@ -1,0 +1,21 @@
+[2026-04-30T09:06:20.185+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-04-30T09:06:20.219+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: nyc_fhv_pipeline.trigger_silver scheduled__2026-03-01T00:00:00+00:00 [queued]>
+[2026-04-30T09:06:20.234+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: nyc_fhv_pipeline.trigger_silver scheduled__2026-03-01T00:00:00+00:00 [queued]>
+[2026-04-30T09:06:20.259+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2026-04-30T09:06:20.283+0000] {taskinstance.py:2330} INFO - Executing <Task(TriggerDagRunOperator): trigger_silver> on 2026-03-01 00:00:00+00:00
+[2026-04-30T09:06:20.293+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=234) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-04-30T09:06:20.295+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'nyc_fhv_pipeline', 'trigger_silver', 'scheduled__2026-03-01T00:00:00+00:00', '--job-id', '29', '--raw', '--subdir', 'DAGS_FOLDER/nyc_fhv_pipeline.py', '--cfg-path', '/tmp/tmp_2ldbw7y']
+[2026-04-30T09:06:20.296+0000] {standard_task_runner.py:63} INFO - Started process 235 to run task
+[2026-04-30T09:06:20.297+0000] {standard_task_runner.py:91} INFO - Job 29: Subtask trigger_silver
+[2026-04-30T09:06:20.387+0000] {task_command.py:426} INFO - Running <TaskInstance: nyc_fhv_pipeline.trigger_silver scheduled__2026-03-01T00:00:00+00:00 [running]> on host 129dc407573d
+[2026-04-30T09:06:20.511+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='nyc_fhv_pipeline' AIRFLOW_CTX_TASK_ID='trigger_silver' AIRFLOW_CTX_EXECUTION_DATE='2026-03-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-03-01T00:00:00+00:00'
+[2026-04-30T09:06:20.512+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-04-30T09:06:20.760+0000] {trigger_dagrun.py:222} INFO - Waiting for nyc_fhv_silver on 2026-04-30 09:06:20.530241+00:00 to become allowed state ['success'] ...
+[2026-04-30T09:06:30.768+0000] {trigger_dagrun.py:235} INFO - nyc_fhv_silver finished with allowed state success
+[2026-04-30T09:06:30.770+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-04-30T09:06:30.782+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=nyc_fhv_pipeline, task_id=trigger_silver, run_id=scheduled__2026-03-01T00:00:00+00:00, execution_date=20260301T000000, start_date=20260430T090620, end_date=20260430T090630
+[2026-04-30T09:06:30.911+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-04-30T09:06:30.965+0000] {taskinstance.py:3498} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2026-04-30T09:06:31.302+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

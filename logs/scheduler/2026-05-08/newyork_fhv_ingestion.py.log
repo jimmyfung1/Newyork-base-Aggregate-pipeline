@@ -1,0 +1,921 @@
+[2026-05-08T18:53:58.305+0000] {processor.py:161} INFO - Started process (PID=78) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:53:58.306+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T18:53:58.309+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:53:58.308+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:53:58.351+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:53:58.482+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:53:58.481+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:newyork_fhv_ingestion
+[2026-05-08T18:53:58.494+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:53:58.493+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:newyork_fhv_ingestion
+[2026-05-08T18:53:58.502+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:53:58.501+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:newyork_fhv_ingestion
+[2026-05-08T18:53:58.502+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:53:58.502+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T18:53:58.515+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:53:58.515+0000] {dag.py:3118} INFO - Creating ORM DAG for newyork_fhv_ingestion
+[2026-05-08T18:53:58.519+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:53:58.519+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T18:53:58.544+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.247 seconds
+[2026-05-08T18:54:41.107+0000] {processor.py:161} INFO - Started process (PID=95) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:54:41.109+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T18:54:41.112+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:54:41.111+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:54:41.150+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:54:41.179+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:54:41.179+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T18:54:41.192+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:54:41.192+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T18:54:41.715+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.618 seconds
+[2026-05-08T18:55:13.471+0000] {processor.py:161} INFO - Started process (PID=106) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:55:13.472+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T18:55:13.475+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:55:13.474+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:55:13.503+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:55:13.524+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:55:13.523+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T18:55:13.537+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:55:13.537+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T18:55:13.777+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.311 seconds
+[2026-05-08T18:55:44.594+0000] {processor.py:161} INFO - Started process (PID=117) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:55:44.595+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T18:55:44.599+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:55:44.598+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:55:44.632+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:55:44.659+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:55:44.659+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T18:55:44.677+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:55:44.677+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T18:55:45.113+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.527 seconds
+[2026-05-08T18:58:25.105+0000] {processor.py:161} INFO - Started process (PID=89) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:58:25.106+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T18:58:25.108+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:58:25.107+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:58:25.129+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:58:25.150+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:58:25.149+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T18:58:25.165+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:58:25.165+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T18:58:25.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.327 seconds
+[2026-05-08T18:58:56.309+0000] {processor.py:161} INFO - Started process (PID=100) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:58:56.312+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T18:58:56.316+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:58:56.315+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:58:56.349+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:58:56.371+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:58:56.370+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T18:58:56.387+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:58:56.386+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T18:58:56.415+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.114 seconds
+[2026-05-08T18:59:27.222+0000] {processor.py:161} INFO - Started process (PID=111) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:59:27.224+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T18:59:27.228+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:59:27.227+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:59:27.258+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:59:27.277+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:59:27.277+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T18:59:27.293+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:59:27.293+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T18:59:27.318+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.107 seconds
+[2026-05-08T18:59:58.259+0000] {processor.py:161} INFO - Started process (PID=122) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:59:58.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T18:59:58.263+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:59:58.263+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:59:58.287+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T18:59:58.313+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:59:58.313+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T18:59:58.335+0000] {logging_mixin.py:188} INFO - [2026-05-08T18:59:58.335+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T18:59:58.918+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.664 seconds
+[2026-05-08T19:00:29.115+0000] {processor.py:161} INFO - Started process (PID=133) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:00:29.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:00:29.187+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:00:29.186+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:00:29.245+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:00:29.270+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:00:29.270+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:00:29.284+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:00:29.284+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:00:29.788+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.678 seconds
+[2026-05-08T19:01:00.604+0000] {processor.py:161} INFO - Started process (PID=144) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:01:00.606+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:01:00.609+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:01:00.608+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:01:00.632+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:01:00.656+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:01:00.656+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:01:00.676+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:01:00.675+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:01:00.698+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.100 seconds
+[2026-05-08T19:01:31.439+0000] {processor.py:161} INFO - Started process (PID=155) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:01:31.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:01:31.442+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:01:31.442+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:01:31.471+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:01:31.496+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:01:31.495+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:01:31.515+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:01:31.515+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:01:32.566+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 1.133 seconds
+[2026-05-08T19:02:03.190+0000] {processor.py:161} INFO - Started process (PID=167) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:02:03.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:02:03.193+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:02:03.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:02:03.221+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:02:03.246+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:02:03.245+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:02:03.260+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:02:03.260+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:02:04.049+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.864 seconds
+[2026-05-08T19:02:34.526+0000] {processor.py:161} INFO - Started process (PID=178) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:02:34.529+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:02:34.535+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:02:34.534+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:02:34.565+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:02:34.589+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:02:34.589+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:02:34.609+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:02:34.609+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:02:34.636+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.124 seconds
+[2026-05-08T19:03:05.268+0000] {processor.py:161} INFO - Started process (PID=189) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:03:05.269+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:03:05.271+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:03:05.271+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:03:05.299+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:03:05.330+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:03:05.330+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:03:05.352+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:03:05.351+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:03:05.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.123 seconds
+[2026-05-08T19:03:36.206+0000] {processor.py:161} INFO - Started process (PID=200) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:03:36.207+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:03:36.209+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:03:36.209+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:03:36.231+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:03:36.259+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:03:36.258+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:03:36.274+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:03:36.274+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:03:36.301+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.101 seconds
+[2026-05-08T19:04:06.856+0000] {processor.py:161} INFO - Started process (PID=211) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:04:06.858+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:04:06.860+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:04:06.860+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:04:06.900+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:04:06.922+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:04:06.921+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:04:06.936+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:04:06.936+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:04:06.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.114 seconds
+[2026-05-08T19:04:37.594+0000] {processor.py:161} INFO - Started process (PID=228) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:04:37.596+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:04:37.599+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:04:37.598+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:04:37.661+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:04:37.688+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:04:37.688+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:04:37.709+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:04:37.709+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:04:37.739+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.151 seconds
+[2026-05-08T19:05:56.076+0000] {processor.py:161} INFO - Started process (PID=79) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:05:56.078+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:05:56.082+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:05:56.081+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:05:56.116+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:05:56.252+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:05:56.252+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:05:56.267+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:05:56.267+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:05:56.299+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.232 seconds
+[2026-05-08T19:06:26.919+0000] {processor.py:161} INFO - Started process (PID=90) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:06:26.920+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:06:26.922+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:06:26.922+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:06:26.952+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:06:26.973+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:06:26.972+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:06:26.986+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:06:26.986+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:06:27.019+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.107 seconds
+[2026-05-08T19:06:57.818+0000] {processor.py:161} INFO - Started process (PID=101) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:06:57.820+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:06:57.822+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:06:57.822+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:06:57.865+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:06:57.894+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:06:57.894+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:06:57.921+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:06:57.920+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:06:57.964+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.157 seconds
+[2026-05-08T19:07:28.862+0000] {processor.py:161} INFO - Started process (PID=119) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:07:28.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:07:28.867+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:07:28.866+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:07:28.904+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:07:28.922+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:07:28.922+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:07:28.936+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:07:28.936+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:07:28.962+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.108 seconds
+[2026-05-08T19:07:59.763+0000] {processor.py:161} INFO - Started process (PID=130) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:07:59.764+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:07:59.767+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:07:59.767+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:07:59.806+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:07:59.830+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:07:59.830+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:07:59.843+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:07:59.842+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:07:59.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.113 seconds
+[2026-05-08T19:08:30.632+0000] {processor.py:161} INFO - Started process (PID=141) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:08:30.634+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:08:30.639+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:08:30.638+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:08:30.680+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:08:30.712+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:08:30.711+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:08:30.735+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:08:30.734+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:08:30.767+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.147 seconds
+[2026-05-08T19:09:01.441+0000] {processor.py:161} INFO - Started process (PID=152) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:09:01.442+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:09:01.446+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:09:01.445+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:09:01.476+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:09:01.499+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:09:01.499+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:09:01.514+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:09:01.513+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:09:01.535+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.102 seconds
+[2026-05-08T19:09:32.346+0000] {processor.py:161} INFO - Started process (PID=163) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:09:32.348+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:09:32.351+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:09:32.351+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:09:32.391+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:09:32.432+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:09:32.432+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:09:32.451+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:09:32.451+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:09:32.485+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.149 seconds
+[2026-05-08T19:10:03.292+0000] {processor.py:161} INFO - Started process (PID=174) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:10:03.294+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:10:03.299+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:10:03.298+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:10:03.347+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:10:03.373+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:10:03.372+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:10:03.389+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:10:03.389+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:10:03.414+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.131 seconds
+[2026-05-08T19:10:34.339+0000] {processor.py:161} INFO - Started process (PID=185) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:10:34.341+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:10:34.345+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:10:34.345+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:10:34.394+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:10:34.418+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:10:34.418+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:10:34.431+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:10:34.431+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:10:34.460+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.133 seconds
+[2026-05-08T19:11:05.563+0000] {processor.py:161} INFO - Started process (PID=196) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:11:05.566+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:11:05.579+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:11:05.578+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:11:05.622+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:11:05.643+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:11:05.643+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:11:05.656+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:11:05.656+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:11:05.682+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.128 seconds
+[2026-05-08T19:11:36.679+0000] {processor.py:161} INFO - Started process (PID=207) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:11:36.680+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:11:36.682+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:11:36.681+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:11:36.704+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:11:36.727+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:11:36.727+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:11:36.742+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:11:36.741+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:11:36.773+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.100 seconds
+[2026-05-08T19:12:07.021+0000] {processor.py:161} INFO - Started process (PID=218) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:12:07.022+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:12:07.025+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:12:07.024+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:12:07.058+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:12:07.079+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:12:07.079+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:12:07.092+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:12:07.092+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:12:07.113+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.098 seconds
+[2026-05-08T19:12:38.003+0000] {processor.py:161} INFO - Started process (PID=229) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:12:38.004+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:12:38.006+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:12:38.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:12:38.033+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:12:38.054+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:12:38.054+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:12:38.068+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:12:38.068+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:12:38.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.097 seconds
+[2026-05-08T19:13:08.992+0000] {processor.py:161} INFO - Started process (PID=239) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:13:08.993+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:13:08.995+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:13:08.995+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:13:09.011+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:13:09.030+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:13:09.030+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:13:09.042+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:13:09.042+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:13:09.069+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.082 seconds
+[2026-05-08T19:13:39.865+0000] {processor.py:161} INFO - Started process (PID=250) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:13:39.866+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:13:39.869+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:13:39.869+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:13:39.898+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:13:39.926+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:13:39.926+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:13:39.945+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:13:39.945+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:13:39.978+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.118 seconds
+[2026-05-08T19:14:10.670+0000] {processor.py:161} INFO - Started process (PID=261) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:14:10.672+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:14:10.674+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:14:10.674+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:14:10.696+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:14:10.720+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:14:10.720+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:14:10.735+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:14:10.735+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:14:10.756+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.093 seconds
+[2026-05-08T19:14:41.599+0000] {processor.py:161} INFO - Started process (PID=272) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:14:41.602+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:14:41.605+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:14:41.604+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:14:41.635+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:14:41.661+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:14:41.661+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:14:41.677+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:14:41.677+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:14:41.699+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.106 seconds
+[2026-05-08T19:15:12.511+0000] {processor.py:161} INFO - Started process (PID=284) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:15:12.512+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:15:12.515+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:15:12.515+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:15:12.546+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:15:12.568+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:15:12.568+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:15:12.583+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:15:12.583+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:15:12.610+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.105 seconds
+[2026-05-08T19:15:43.551+0000] {processor.py:161} INFO - Started process (PID=295) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:15:43.553+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:15:43.556+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:15:43.555+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:15:43.584+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:15:43.614+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:15:43.614+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:15:43.632+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:15:43.632+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:15:43.661+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.116 seconds
+[2026-05-08T19:16:14.607+0000] {processor.py:161} INFO - Started process (PID=306) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:16:14.609+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:16:14.613+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:16:14.612+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:16:14.661+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:16:14.695+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:16:14.694+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:16:14.719+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:16:14.719+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:16:14.747+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.148 seconds
+[2026-05-08T19:16:45.565+0000] {processor.py:161} INFO - Started process (PID=317) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:16:45.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:16:45.570+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:16:45.569+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:16:45.596+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:16:45.615+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:16:45.615+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:16:45.627+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:16:45.627+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:16:45.648+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.095 seconds
+[2026-05-08T19:17:16.495+0000] {processor.py:161} INFO - Started process (PID=329) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:17:16.497+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:17:16.499+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:17:16.499+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:17:16.531+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:17:16.561+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:17:16.561+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:17:16.578+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:17:16.578+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:17:16.602+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.115 seconds
+[2026-05-08T19:17:47.338+0000] {processor.py:161} INFO - Started process (PID=340) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:17:47.339+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:17:47.342+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:17:47.341+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:17:47.366+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:17:47.389+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:17:47.389+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:17:47.401+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:17:47.401+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:17:47.422+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.090 seconds
+[2026-05-08T19:18:18.114+0000] {processor.py:161} INFO - Started process (PID=351) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:18:18.115+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:18:18.117+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:18:18.117+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:18:18.138+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:18:18.160+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:18:18.160+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:18:18.173+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:18:18.173+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:18:18.194+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.086 seconds
+[2026-05-08T19:18:48.930+0000] {processor.py:161} INFO - Started process (PID=362) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:18:48.931+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:18:48.932+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:18:48.932+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:18:48.955+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:18:48.978+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:18:48.978+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:18:48.992+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:18:48.991+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:18:49.012+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.088 seconds
+[2026-05-08T19:19:19.757+0000] {processor.py:161} INFO - Started process (PID=373) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:19:19.759+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:19:19.763+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:19:19.763+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:19:19.800+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:19:19.834+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:19:19.834+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:19:19.846+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:19:19.846+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:19:19.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.122 seconds
+[2026-05-08T19:19:50.723+0000] {processor.py:161} INFO - Started process (PID=384) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:19:50.724+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:19:50.726+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:19:50.726+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:19:50.750+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:19:50.771+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:19:50.771+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:19:50.787+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:19:50.787+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:19:50.811+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.093 seconds
+[2026-05-08T19:20:21.554+0000] {processor.py:161} INFO - Started process (PID=395) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:20:21.555+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:20:21.557+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:20:21.557+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:20:21.578+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:20:21.600+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:20:21.599+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:20:21.613+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:20:21.613+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:20:21.637+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.090 seconds
+[2026-05-08T19:20:52.438+0000] {processor.py:161} INFO - Started process (PID=406) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:20:52.439+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:20:52.441+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:20:52.441+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:20:52.470+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:20:52.494+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:20:52.493+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:20:52.506+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:20:52.506+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:20:52.525+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.094 seconds
+[2026-05-08T19:21:22.620+0000] {processor.py:161} INFO - Started process (PID=417) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:21:22.621+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:21:22.624+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:21:22.623+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:21:22.655+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:21:22.677+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:21:22.676+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:21:22.690+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:21:22.689+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:21:22.712+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.100 seconds
+[2026-05-08T19:21:53.569+0000] {processor.py:161} INFO - Started process (PID=430) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:21:53.571+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:21:53.574+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:21:53.573+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:21:53.602+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:21:53.627+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:21:53.627+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:21:53.642+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:21:53.642+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:21:53.664+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.103 seconds
+[2026-05-08T19:22:29.273+0000] {processor.py:161} INFO - Started process (PID=441) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:22:29.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:22:29.279+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:22:29.278+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:22:29.313+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:22:29.360+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:22:29.355+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:22:29.411+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:22:29.411+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:22:29.443+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.179 seconds
+[2026-05-08T19:23:00.137+0000] {processor.py:161} INFO - Started process (PID=452) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:23:00.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:23:00.141+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:23:00.141+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:23:00.169+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:23:00.188+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:23:00.188+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:23:00.203+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:23:00.202+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:23:00.229+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.097 seconds
+[2026-05-08T19:23:31.092+0000] {processor.py:161} INFO - Started process (PID=469) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:23:31.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:23:31.095+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:23:31.094+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:23:31.114+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:23:31.137+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:23:31.137+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:23:31.152+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:23:31.152+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:23:31.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.089 seconds
+[2026-05-08T19:24:02.050+0000] {processor.py:161} INFO - Started process (PID=480) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:24:02.052+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:24:02.054+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:24:02.054+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:24:02.084+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:24:02.114+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:24:02.114+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:24:02.127+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:24:02.127+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:24:02.153+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.110 seconds
+[2026-05-08T19:24:32.965+0000] {processor.py:161} INFO - Started process (PID=491) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:24:32.966+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:24:32.969+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:24:32.968+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:24:33.007+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:24:33.035+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:24:33.035+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:24:33.048+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:24:33.048+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:24:33.071+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.112 seconds
+[2026-05-08T19:25:03.861+0000] {processor.py:161} INFO - Started process (PID=502) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:25:03.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:25:03.865+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:25:03.865+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:25:03.891+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:25:03.913+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:25:03.913+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:25:03.926+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:25:03.925+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:25:03.952+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.097 seconds
+[2026-05-08T19:25:34.670+0000] {processor.py:161} INFO - Started process (PID=513) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:25:34.671+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:25:34.673+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:25:34.673+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:25:34.711+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:25:34.741+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:25:34.740+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:25:34.756+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:25:34.756+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:25:34.781+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.118 seconds
+[2026-05-08T19:26:05.065+0000] {processor.py:161} INFO - Started process (PID=524) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:26:05.066+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:26:05.069+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:26:05.068+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:26:05.095+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:26:05.114+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:26:05.113+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:26:05.125+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:26:05.125+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:26:05.150+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.090 seconds
+[2026-05-08T19:26:36.042+0000] {processor.py:161} INFO - Started process (PID=535) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:26:36.043+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:26:36.046+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:26:36.045+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:26:36.077+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:26:36.099+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:26:36.099+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:26:36.111+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:26:36.111+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:26:36.131+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.096 seconds
+[2026-05-08T19:27:10.837+0000] {processor.py:161} INFO - Started process (PID=546) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:27:10.839+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:27:10.841+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:27:10.841+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:27:10.867+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:27:10.888+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:27:10.888+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:27:10.900+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:27:10.899+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:27:10.927+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.096 seconds
+[2026-05-08T19:27:41.842+0000] {processor.py:161} INFO - Started process (PID=557) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:27:41.845+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:27:41.849+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:27:41.848+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:27:41.876+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:27:41.906+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:27:41.906+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:27:41.924+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:27:41.924+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:27:41.947+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.116 seconds
+[2026-05-08T19:28:12.723+0000] {processor.py:161} INFO - Started process (PID=568) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:28:12.724+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:28:12.729+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:28:12.728+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:28:12.756+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:28:12.778+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:28:12.777+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:28:12.791+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:28:12.790+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:28:12.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.098 seconds
+[2026-05-08T19:28:43.712+0000] {processor.py:161} INFO - Started process (PID=579) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:28:43.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:28:43.720+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:28:43.719+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:28:43.756+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:28:43.781+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:28:43.780+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:28:43.797+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:28:43.796+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:28:43.824+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.119 seconds
+[2026-05-08T19:29:14.795+0000] {processor.py:161} INFO - Started process (PID=591) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:29:14.796+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:29:14.799+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:29:14.798+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:29:14.825+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:29:14.849+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:29:14.849+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:29:14.863+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:29:14.863+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:29:14.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.095 seconds
+[2026-05-08T19:29:45.792+0000] {processor.py:161} INFO - Started process (PID=602) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:29:45.793+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:29:45.795+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:29:45.795+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:29:45.821+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:29:45.846+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:29:45.845+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:29:45.858+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:29:45.858+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:29:45.878+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.093 seconds
+[2026-05-08T19:30:16.771+0000] {processor.py:161} INFO - Started process (PID=613) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:30:16.773+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:30:16.775+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:30:16.774+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:30:16.801+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:30:16.825+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:30:16.825+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:30:16.837+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:30:16.837+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:30:16.860+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.095 seconds
+[2026-05-08T19:30:47.703+0000] {processor.py:161} INFO - Started process (PID=625) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:30:47.706+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:30:47.710+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:30:47.709+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:30:47.751+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:30:47.785+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:30:47.784+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:30:47.804+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:30:47.804+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:30:47.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.153 seconds
+[2026-05-08T19:31:18.720+0000] {processor.py:161} INFO - Started process (PID=636) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:31:18.722+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:31:18.725+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:31:18.725+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:31:18.760+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:31:18.797+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:31:18.796+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:31:18.822+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:31:18.821+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:31:18.865+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.152 seconds
+[2026-05-08T19:31:49.447+0000] {processor.py:161} INFO - Started process (PID=647) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:31:49.450+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:31:49.453+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:31:49.452+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:31:49.484+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:31:49.507+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:31:49.507+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:31:49.521+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:31:49.520+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:31:49.541+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.105 seconds
+[2026-05-08T19:32:20.307+0000] {processor.py:161} INFO - Started process (PID=658) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:32:20.310+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:32:20.314+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:32:20.313+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:32:20.349+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:32:20.368+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:32:20.367+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:32:20.381+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:32:20.381+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:32:20.398+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.104 seconds
+[2026-05-08T19:32:51.189+0000] {processor.py:161} INFO - Started process (PID=669) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:32:51.190+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:32:51.192+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:32:51.192+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:32:51.216+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:32:51.234+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:32:51.234+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:32:51.245+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:32:51.245+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:32:51.264+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.082 seconds
+[2026-05-08T19:33:22.123+0000] {processor.py:161} INFO - Started process (PID=680) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:33:22.124+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:33:22.127+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:33:22.126+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:33:22.158+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:33:22.182+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:33:22.182+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:33:22.197+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:33:22.196+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:33:22.224+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.111 seconds
+[2026-05-08T19:33:53.024+0000] {processor.py:161} INFO - Started process (PID=691) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:33:53.025+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:33:53.028+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:33:53.027+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:33:53.052+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:33:53.076+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:33:53.076+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:33:53.091+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:33:53.090+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:33:53.117+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.100 seconds
+[2026-05-08T19:34:23.875+0000] {processor.py:161} INFO - Started process (PID=702) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:34:23.878+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:34:23.880+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:34:23.880+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:34:23.910+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:34:23.937+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:34:23.936+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:34:23.953+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:34:23.953+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:34:23.988+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.120 seconds
+[2026-05-08T19:34:54.608+0000] {processor.py:161} INFO - Started process (PID=732) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:34:54.609+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:34:54.611+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:34:54.611+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:34:54.640+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:34:54.666+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:34:54.665+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:34:54.683+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:34:54.682+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:34:54.711+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.109 seconds
+[2026-05-08T19:35:25.498+0000] {processor.py:161} INFO - Started process (PID=747) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:35:25.501+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:35:25.512+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:35:25.511+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:35:25.555+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:35:25.587+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:35:25.586+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:35:25.621+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:35:25.621+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:35:25.681+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.191 seconds
+[2026-05-08T19:35:56.556+0000] {processor.py:161} INFO - Started process (PID=758) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:35:56.558+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:35:56.562+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:35:56.561+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:35:56.590+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:35:56.608+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:35:56.608+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:35:56.620+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:35:56.620+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:35:56.641+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.093 seconds
+[2026-05-08T19:36:26.842+0000] {processor.py:161} INFO - Started process (PID=769) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:36:26.843+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:36:26.845+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:36:26.845+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:36:26.869+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:36:26.889+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:36:26.889+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:36:26.901+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:36:26.901+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:36:26.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.084 seconds
+[2026-05-08T19:36:57.817+0000] {processor.py:161} INFO - Started process (PID=779) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:36:57.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:36:57.820+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:36:57.820+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:36:57.853+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:36:57.880+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:36:57.880+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:36:57.897+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:36:57.897+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:36:57.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.127 seconds
+[2026-05-08T19:37:28.820+0000] {processor.py:161} INFO - Started process (PID=790) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:37:28.823+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:37:28.825+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:37:28.825+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:37:28.860+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:37:28.882+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:37:28.881+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:37:28.900+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:37:28.899+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:37:28.933+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.119 seconds
+[2026-05-08T19:37:59.770+0000] {processor.py:161} INFO - Started process (PID=801) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:37:59.772+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:37:59.774+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:37:59.774+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:37:59.799+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:37:59.820+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:37:59.820+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:37:59.833+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:37:59.833+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:37:59.855+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.091 seconds
+[2026-05-08T19:38:30.487+0000] {processor.py:161} INFO - Started process (PID=817) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:38:30.488+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:38:30.490+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:38:30.490+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:38:30.507+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:38:30.524+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:38:30.524+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:38:30.536+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:38:30.536+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:38:30.554+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.072 seconds
+[2026-05-08T19:39:01.434+0000] {processor.py:161} INFO - Started process (PID=828) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:39:01.436+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:39:01.438+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:39:01.438+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:39:01.471+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:39:01.505+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:39:01.504+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:39:01.526+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:39:01.526+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:39:01.565+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.137 seconds
+[2026-05-08T19:39:32.352+0000] {processor.py:161} INFO - Started process (PID=844) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:39:32.354+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:39:32.357+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:39:32.357+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:39:32.391+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:39:32.422+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:39:32.422+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:39:32.448+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:39:32.447+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:39:32.497+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.152 seconds
+[2026-05-08T19:40:03.461+0000] {processor.py:161} INFO - Started process (PID=855) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:40:03.463+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:40:03.467+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:40:03.466+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:40:03.504+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:40:03.530+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:40:03.529+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:40:03.543+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:40:03.543+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:40:03.563+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.110 seconds
+[2026-05-08T19:40:34.412+0000] {processor.py:161} INFO - Started process (PID=873) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:40:34.413+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:40:34.416+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:40:34.416+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:40:34.465+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:40:34.490+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:40:34.490+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:40:34.503+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:40:34.503+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:40:34.527+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.122 seconds
+[2026-05-08T19:41:04.597+0000] {processor.py:161} INFO - Started process (PID=884) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:41:04.599+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:41:04.601+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:41:04.600+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:41:04.619+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:41:04.641+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:41:04.641+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:41:04.653+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:41:04.653+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:41:04.674+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.083 seconds
+[2026-05-08T19:41:35.578+0000] {processor.py:161} INFO - Started process (PID=895) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:41:35.579+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:41:35.582+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:41:35.582+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:41:35.624+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:41:35.654+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:41:35.653+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:41:35.669+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:41:35.669+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:41:35.700+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.133 seconds
+[2026-05-08T19:42:06.630+0000] {processor.py:161} INFO - Started process (PID=906) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:42:06.633+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:42:06.637+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:42:06.637+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:42:06.672+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:42:06.709+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:42:06.708+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:42:06.720+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:42:06.720+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:42:06.740+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.120 seconds
+[2026-05-08T19:42:37.304+0000] {processor.py:161} INFO - Started process (PID=917) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:42:37.305+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:42:37.308+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:42:37.307+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:42:37.341+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:42:37.365+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:42:37.364+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:42:37.377+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:42:37.376+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:42:37.398+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.100 seconds
+[2026-05-08T19:43:08.259+0000] {processor.py:161} INFO - Started process (PID=928) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:43:08.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:43:08.264+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:43:08.263+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:43:08.302+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:43:08.331+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:43:08.331+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:43:08.346+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:43:08.346+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:43:08.368+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.119 seconds
+[2026-05-08T19:43:39.249+0000] {processor.py:161} INFO - Started process (PID=939) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:43:39.251+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:43:39.254+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:43:39.254+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:43:39.291+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:43:39.327+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:43:39.327+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:43:39.350+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:43:39.350+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:43:39.378+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.138 seconds
+[2026-05-08T19:44:10.330+0000] {processor.py:161} INFO - Started process (PID=950) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:44:10.333+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:44:10.337+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:44:10.336+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:44:10.383+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:44:10.416+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:44:10.416+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:44:10.430+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:44:10.430+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:44:10.463+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.144 seconds
+[2026-05-08T19:44:41.317+0000] {processor.py:161} INFO - Started process (PID=961) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:44:41.320+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:44:41.324+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:44:41.324+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:44:41.352+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:44:41.374+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:44:41.374+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:44:41.388+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:44:41.388+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:44:41.409+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.101 seconds
+[2026-05-08T19:45:12.256+0000] {processor.py:161} INFO - Started process (PID=973) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:45:12.258+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:45:12.262+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:45:12.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:45:12.300+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:45:12.327+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:45:12.327+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:45:12.348+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:45:12.348+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:45:12.371+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.126 seconds
+[2026-05-08T19:45:43.281+0000] {processor.py:161} INFO - Started process (PID=984) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:45:43.283+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:45:43.286+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:45:43.286+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:45:43.325+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:45:43.354+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:45:43.353+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:45:43.368+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:45:43.368+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:45:43.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.116 seconds
+[2026-05-08T19:46:13.531+0000] {processor.py:161} INFO - Started process (PID=995) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:46:13.533+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:46:13.535+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:46:13.535+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:46:13.568+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:46:13.590+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:46:13.590+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:46:13.602+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:46:13.602+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:46:13.635+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.113 seconds
+[2026-05-08T19:46:44.486+0000] {processor.py:161} INFO - Started process (PID=1006) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:46:44.488+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:46:44.491+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:46:44.491+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:46:44.535+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:46:44.566+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:46:44.565+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:46:44.585+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:46:44.584+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:46:44.612+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.138 seconds
+[2026-05-08T19:47:15.342+0000] {processor.py:161} INFO - Started process (PID=1017) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:47:15.345+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:47:15.350+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:47:15.349+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:47:15.379+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:47:15.400+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:47:15.399+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:47:15.412+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:47:15.411+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:47:15.443+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.117 seconds
+[2026-05-08T19:47:46.289+0000] {processor.py:161} INFO - Started process (PID=1028) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:47:46.291+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:47:46.295+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:47:46.294+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:47:46.333+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:47:46.363+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:47:46.363+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:47:46.377+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:47:46.377+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:47:46.407+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.127 seconds
+[2026-05-08T19:48:17.478+0000] {processor.py:161} INFO - Started process (PID=1039) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:48:17.481+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:48:17.485+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:48:17.484+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:48:17.531+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:48:17.574+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:48:17.573+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:48:17.601+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:48:17.601+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:48:17.654+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.185 seconds
+[2026-05-08T19:48:48.811+0000] {processor.py:161} INFO - Started process (PID=1050) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:48:48.814+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:48:48.818+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:48:48.818+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:48:48.869+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:48:48.894+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:48:48.893+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:48:48.909+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:48:48.907+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:48:48.956+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.160 seconds
+[2026-05-08T19:49:19.886+0000] {processor.py:161} INFO - Started process (PID=1062) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:49:19.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:49:19.891+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:49:19.891+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:49:19.938+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:49:19.981+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:49:19.981+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:49:20.007+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:49:20.006+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:49:20.049+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.175 seconds
+[2026-05-08T19:49:50.907+0000] {processor.py:161} INFO - Started process (PID=1073) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:49:50.909+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:49:50.913+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:49:50.913+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:49:50.963+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:49:51.004+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:49:51.004+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:49:51.026+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:49:51.026+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:49:51.066+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.173 seconds
+[2026-05-08T19:50:21.288+0000] {processor.py:161} INFO - Started process (PID=1085) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:50:21.290+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:50:21.294+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:50:21.294+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:50:21.354+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:50:21.375+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:50:21.375+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:50:21.388+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:50:21.388+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:50:21.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.148 seconds
+[2026-05-08T19:50:52.088+0000] {processor.py:161} INFO - Started process (PID=1096) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:50:52.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:50:52.097+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:50:52.096+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:50:52.121+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:50:52.143+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:50:52.143+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:50:52.157+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:50:52.156+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:50:52.182+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.103 seconds
+[2026-05-08T19:51:23.091+0000] {processor.py:161} INFO - Started process (PID=1107) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:51:23.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:51:23.098+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:51:23.097+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:51:23.131+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:51:23.153+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:51:23.153+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:51:23.165+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:51:23.165+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:51:23.187+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.108 seconds
+[2026-05-08T19:51:53.932+0000] {processor.py:161} INFO - Started process (PID=1118) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:51:53.935+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:51:53.940+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:51:53.940+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:51:53.977+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:51:53.997+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:51:53.996+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:51:54.008+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:51:54.008+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:51:54.029+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.110 seconds
+[2026-05-08T19:52:24.735+0000] {processor.py:161} INFO - Started process (PID=1129) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:52:24.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:52:24.740+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:52:24.739+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:52:24.777+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:52:24.805+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:52:24.805+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:52:24.831+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:52:24.831+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:52:24.868+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.139 seconds
+[2026-05-08T19:52:55.489+0000] {processor.py:161} INFO - Started process (PID=1140) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:52:55.490+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:52:55.493+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:52:55.492+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:52:55.522+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:52:55.550+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:52:55.549+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:52:55.564+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:52:55.564+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:52:55.588+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.107 seconds
+[2026-05-08T19:53:26.328+0000] {processor.py:161} INFO - Started process (PID=1151) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:53:26.330+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:53:26.333+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:53:26.332+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:53:26.357+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:53:26.375+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:53:26.375+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:53:26.386+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:53:26.385+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:53:26.409+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.088 seconds
+[2026-05-08T19:53:57.125+0000] {processor.py:161} INFO - Started process (PID=1162) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:53:57.127+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:53:57.131+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:53:57.130+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:53:57.172+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:53:57.204+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:53:57.203+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:53:57.226+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:53:57.226+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:53:57.274+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.158 seconds
+[2026-05-08T19:54:27.998+0000] {processor.py:161} INFO - Started process (PID=1173) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:54:28.001+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:54:28.005+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:54:28.004+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:54:28.033+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:54:28.058+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:54:28.057+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:54:28.079+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:54:28.079+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:54:28.109+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.121 seconds
+[2026-05-08T19:54:58.458+0000] {processor.py:161} INFO - Started process (PID=1184) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:54:58.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:54:58.467+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:54:58.466+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:54:58.518+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:54:58.573+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:54:58.572+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:54:58.608+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:54:58.607+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:54:58.657+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.209 seconds
+[2026-05-08T19:55:29.530+0000] {processor.py:161} INFO - Started process (PID=1195) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:55:29.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:55:29.535+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:55:29.534+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:55:29.581+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:55:29.610+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:55:29.610+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:55:29.629+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:55:29.629+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:55:29.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.136 seconds
+[2026-05-08T19:56:00.655+0000] {processor.py:161} INFO - Started process (PID=1206) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:56:00.657+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:56:00.660+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:56:00.659+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:56:00.697+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:56:00.730+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:56:00.729+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:56:00.751+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:56:00.751+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:56:00.787+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.139 seconds
+[2026-05-08T19:56:31.614+0000] {processor.py:161} INFO - Started process (PID=1217) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:56:31.616+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:56:31.620+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:56:31.619+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:56:31.668+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:56:31.712+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:56:31.711+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:56:31.745+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:56:31.744+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:56:31.780+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.178 seconds
+[2026-05-08T19:57:02.522+0000] {processor.py:161} INFO - Started process (PID=1228) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:57:02.523+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:57:02.527+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:57:02.526+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:57:02.562+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:57:02.593+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:57:02.593+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:57:02.607+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:57:02.607+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:57:02.632+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.121 seconds
+[2026-05-08T19:57:33.423+0000] {processor.py:161} INFO - Started process (PID=1239) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:57:33.425+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:57:33.429+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:57:33.428+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:57:33.480+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:57:33.516+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:57:33.516+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:57:33.537+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:57:33.537+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:57:33.570+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.155 seconds
+[2026-05-08T19:58:04.377+0000] {processor.py:161} INFO - Started process (PID=1250) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:58:04.379+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:58:04.384+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:58:04.383+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:58:04.427+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:58:04.455+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:58:04.455+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:58:04.469+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:58:04.469+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:58:04.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.132 seconds
+[2026-05-08T19:58:35.316+0000] {processor.py:161} INFO - Started process (PID=1261) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:58:35.317+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:58:35.320+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:58:35.319+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:58:35.342+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:58:35.367+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:58:35.367+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:58:35.382+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:58:35.382+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:58:35.409+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.101 seconds
+[2026-05-08T19:59:06.300+0000] {processor.py:161} INFO - Started process (PID=1272) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:59:06.302+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:59:06.304+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:59:06.304+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:59:06.338+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:59:06.361+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:59:06.361+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:59:06.382+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:59:06.381+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:59:06.417+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.128 seconds
+[2026-05-08T19:59:37.193+0000] {processor.py:161} INFO - Started process (PID=1283) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:59:37.195+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T19:59:37.197+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:59:37.197+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:59:37.223+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T19:59:37.254+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:59:37.254+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T19:59:37.276+0000] {logging_mixin.py:188} INFO - [2026-05-08T19:59:37.275+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T19:59:37.301+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.118 seconds
+[2026-05-08T20:00:08.046+0000] {processor.py:161} INFO - Started process (PID=1299) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:00:08.049+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T20:00:08.056+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:00:08.055+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:00:08.103+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:00:08.131+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:00:08.131+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T20:00:08.146+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:00:08.146+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T20:00:08.183+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.145 seconds
+[2026-05-08T20:00:39.013+0000] {processor.py:161} INFO - Started process (PID=1310) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:00:39.016+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T20:00:39.020+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:00:39.019+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:00:39.074+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:00:39.098+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:00:39.098+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T20:00:39.117+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:00:39.116+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T20:00:39.155+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.151 seconds
+[2026-05-08T20:01:09.413+0000] {processor.py:161} INFO - Started process (PID=1321) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:01:09.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T20:01:09.420+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:01:09.419+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:01:09.482+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:01:09.516+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:01:09.515+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T20:01:09.526+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:01:09.526+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T20:01:09.559+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.158 seconds
+[2026-05-08T20:01:40.428+0000] {processor.py:161} INFO - Started process (PID=1332) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:01:40.430+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T20:01:40.432+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:01:40.432+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:01:40.458+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:01:40.476+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:01:40.476+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T20:01:40.488+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:01:40.488+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T20:01:40.507+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.084 seconds
+[2026-05-08T20:02:11.446+0000] {processor.py:161} INFO - Started process (PID=1343) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:02:11.448+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T20:02:11.451+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:02:11.450+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:02:11.487+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:02:11.512+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:02:11.512+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T20:02:11.524+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:02:11.523+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T20:02:11.545+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.106 seconds
+[2026-05-08T20:02:41.779+0000] {processor.py:161} INFO - Started process (PID=1354) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:02:41.781+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T20:02:41.786+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:02:41.785+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:02:41.835+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:02:41.870+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:02:41.870+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T20:02:41.888+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:02:41.888+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T20:02:41.913+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.145 seconds
+[2026-05-08T20:03:12.094+0000] {processor.py:161} INFO - Started process (PID=1365) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:03:12.100+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T20:03:12.106+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:03:12.105+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:03:12.163+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:03:12.194+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:03:12.193+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T20:03:12.218+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:03:12.218+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T20:03:12.262+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.180 seconds
+[2026-05-08T20:03:42.358+0000] {processor.py:161} INFO - Started process (PID=1376) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:03:42.360+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T20:03:42.365+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:03:42.364+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:03:42.410+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T20:03:42.444+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:03:42.444+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T20:03:42.457+0000] {logging_mixin.py:188} INFO - [2026-05-08T20:03:42.457+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T20:03:42.479+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.132 seconds
+[2026-05-08T23:03:57.100+0000] {processor.py:161} INFO - Started process (PID=1381) to work on /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T23:03:57.105+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/newyork_fhv_ingestion.py for tasks to queue
+[2026-05-08T23:03:57.108+0000] {logging_mixin.py:188} INFO - [2026-05-08T23:03:57.108+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T23:03:57.255+0000] {processor.py:840} INFO - DAG(s) 'newyork_fhv_ingestion' retrieved from /opt/airflow/dags/newyork_fhv_ingestion.py
+[2026-05-08T23:03:57.282+0000] {logging_mixin.py:188} INFO - [2026-05-08T23:03:57.282+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-05-08T23:03:57.300+0000] {logging_mixin.py:188} INFO - [2026-05-08T23:03:57.300+0000] {dag.py:3954} INFO - Setting next_dagrun for newyork_fhv_ingestion to None, run_after=None
+[2026-05-08T23:03:57.329+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/newyork_fhv_ingestion.py took 0.234 seconds

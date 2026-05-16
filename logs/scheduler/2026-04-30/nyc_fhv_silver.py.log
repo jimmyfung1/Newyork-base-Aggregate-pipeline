@@ -1,0 +1,1061 @@
+[2026-04-30T08:41:05.673+0000] {processor.py:161} INFO - Started process (PID=88) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:41:05.675+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:41:05.679+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:05.679+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:41:05.737+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:41:06.207+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:06.204+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:nyc_fhv_silver
+[2026-04-30T08:41:06.248+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:06.248+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:nyc_fhv_silver
+[2026-04-30T08:41:06.264+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:06.263+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:nyc_fhv_silver
+[2026-04-30T08:41:06.265+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:06.265+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:41:06.311+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:06.311+0000] {dag.py:3118} INFO - Creating ORM DAG for nyc_fhv_silver
+[2026-04-30T08:41:06.314+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:06.314+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:41:06.369+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.706 seconds
+[2026-04-30T08:41:36.760+0000] {processor.py:161} INFO - Started process (PID=99) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:41:36.762+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:41:36.765+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:36.764+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:41:36.796+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:41:36.828+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:36.828+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:41:36.848+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:41:36.848+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:41:36.882+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.131 seconds
+[2026-04-30T08:42:07.739+0000] {processor.py:161} INFO - Started process (PID=110) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:42:07.741+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:42:07.744+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:07.744+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:42:07.784+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:42:07.820+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:07.820+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:42:07.843+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:07.842+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:42:07.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.158 seconds
+[2026-04-30T08:42:38.753+0000] {processor.py:161} INFO - Started process (PID=121) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:42:38.755+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:42:38.758+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:38.757+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:42:38.811+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:42:38.870+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:38.869+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:42:38.919+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:42:38.918+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:42:38.966+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.226 seconds
+[2026-04-30T08:43:09.559+0000] {processor.py:161} INFO - Started process (PID=132) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:43:09.560+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:43:09.563+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:09.563+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:43:09.596+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:43:09.625+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:09.625+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:43:09.642+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:09.642+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:43:09.684+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.131 seconds
+[2026-04-30T08:43:40.565+0000] {processor.py:161} INFO - Started process (PID=143) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:43:40.566+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:43:40.570+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:40.569+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:43:40.600+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:43:40.627+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:40.627+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:43:40.643+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:43:40.643+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:43:40.674+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.118 seconds
+[2026-04-30T08:44:11.619+0000] {processor.py:161} INFO - Started process (PID=154) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:44:11.627+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:44:11.631+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:11.630+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:44:11.669+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:44:11.719+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:11.719+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:44:11.745+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:11.745+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:44:11.804+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.199 seconds
+[2026-04-30T08:44:42.038+0000] {processor.py:161} INFO - Started process (PID=165) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:44:42.041+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:44:42.046+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:42.045+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:44:42.105+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:44:42.135+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:42.134+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:44:42.152+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:44:42.152+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:44:42.180+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.150 seconds
+[2026-04-30T08:45:13.098+0000] {processor.py:161} INFO - Started process (PID=176) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:45:13.100+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:45:13.103+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:13.102+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:45:13.140+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:45:13.167+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:13.166+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:45:13.185+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:13.185+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:45:13.214+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.123 seconds
+[2026-04-30T08:45:44.073+0000] {processor.py:161} INFO - Started process (PID=187) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:45:44.076+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:45:44.081+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:44.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:45:44.151+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:45:44.199+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:44.199+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:45:44.221+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:45:44.221+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:45:44.263+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.204 seconds
+[2026-04-30T08:46:15.092+0000] {processor.py:161} INFO - Started process (PID=198) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:46:15.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:46:15.096+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:15.095+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:46:15.128+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:46:15.157+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:15.156+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:46:15.172+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:15.172+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:46:15.200+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.115 seconds
+[2026-04-30T08:46:46.008+0000] {processor.py:161} INFO - Started process (PID=209) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:46:46.011+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:46:46.016+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:46.014+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:46:46.087+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:46:46.122+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:46.122+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:46:46.143+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:46:46.143+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:46:46.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.177 seconds
+[2026-04-30T08:47:17.196+0000] {processor.py:161} INFO - Started process (PID=221) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:47:17.202+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:47:17.209+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:17.208+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:47:17.288+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:47:17.320+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:17.320+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:47:17.344+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:17.344+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:47:17.377+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.191 seconds
+[2026-04-30T08:47:47.544+0000] {processor.py:161} INFO - Started process (PID=232) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:47:47.547+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:47:47.551+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:47.551+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:47:47.595+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:47:47.643+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:47.643+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:47:47.671+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:47:47.671+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:47:47.724+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.193 seconds
+[2026-04-30T08:48:18.060+0000] {processor.py:161} INFO - Started process (PID=244) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:48:18.068+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:48:18.074+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:18.074+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:48:18.123+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:48:18.171+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:18.171+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:48:18.204+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:18.204+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:48:18.259+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.211 seconds
+[2026-04-30T08:48:48.426+0000] {processor.py:161} INFO - Started process (PID=255) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:48:48.429+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:48:48.434+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:48.433+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:48:48.502+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:48:48.543+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:48.543+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:48:48.572+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:48:48.572+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:48:48.614+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.201 seconds
+[2026-04-30T08:49:19.281+0000] {processor.py:161} INFO - Started process (PID=266) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:49:19.283+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:49:19.287+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:19.286+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:49:19.358+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:49:19.416+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:19.415+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:49:19.448+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:19.447+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:49:19.572+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.306 seconds
+[2026-04-30T08:49:50.212+0000] {processor.py:161} INFO - Started process (PID=278) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:49:50.214+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:49:50.217+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:50.216+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:49:50.257+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:49:50.290+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:50.290+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:49:50.315+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:49:50.314+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:49:50.354+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.153 seconds
+[2026-04-30T08:50:26.930+0000] {processor.py:161} INFO - Started process (PID=82) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:50:26.931+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:50:26.934+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:26.934+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:50:26.968+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:50:27.036+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:27.035+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:50:27.061+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:27.060+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:50:27.103+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.181 seconds
+[2026-04-30T08:50:58.125+0000] {processor.py:161} INFO - Started process (PID=93) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:50:58.131+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:50:58.135+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:58.134+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:50:58.186+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:50:58.227+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:58.227+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:50:58.254+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:50:58.254+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:50:58.301+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.186 seconds
+[2026-04-30T08:51:28.926+0000] {processor.py:161} INFO - Started process (PID=110) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:51:28.933+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:51:28.942+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:51:28.941+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:51:29.071+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:51:29.125+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:51:29.125+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:51:29.179+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:51:29.179+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:51:29.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.550 seconds
+[2026-04-30T08:52:00.406+0000] {processor.py:161} INFO - Started process (PID=131) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:52:00.409+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:52:00.415+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:52:00.414+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:52:00.474+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:52:00.527+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:52:00.526+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:52:00.588+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:52:00.587+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:52:00.705+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.312 seconds
+[2026-04-30T08:53:05.875+0000] {processor.py:161} INFO - Started process (PID=88) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:53:05.877+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:53:05.882+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:05.881+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:53:05.976+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:53:06.058+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:06.057+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:53:06.086+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:06.086+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:53:06.135+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.269 seconds
+[2026-04-30T08:53:36.638+0000] {processor.py:161} INFO - Started process (PID=99) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:53:36.651+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:53:36.656+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:36.655+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:53:36.725+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:53:36.768+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:36.768+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:53:36.791+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:53:36.791+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:53:36.837+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.209 seconds
+[2026-04-30T08:54:07.602+0000] {processor.py:161} INFO - Started process (PID=110) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:54:07.608+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:54:07.612+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:07.611+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:54:07.673+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:54:07.727+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:07.726+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:54:07.772+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:07.772+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:54:07.830+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.250 seconds
+[2026-04-30T08:54:38.315+0000] {processor.py:161} INFO - Started process (PID=121) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:54:38.316+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:54:38.320+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:38.319+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:54:38.353+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:54:38.384+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:38.383+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:54:38.404+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:54:38.403+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:54:38.438+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.134 seconds
+[2026-04-30T08:55:08.891+0000] {processor.py:161} INFO - Started process (PID=133) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:55:08.894+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:55:08.898+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:55:08.897+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:55:08.942+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:55:08.993+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:55:08.992+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:55:09.030+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:55:09.029+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:55:09.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.214 seconds
+[2026-04-30T08:57:35.806+0000] {processor.py:161} INFO - Started process (PID=89) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:57:35.808+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:57:35.814+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:57:35.813+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:57:35.870+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:57:36.314+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:57:36.313+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:57:36.341+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:57:36.341+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:57:36.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.589 seconds
+[2026-04-30T08:58:06.667+0000] {processor.py:161} INFO - Started process (PID=100) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:58:06.670+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:58:06.674+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:06.673+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:58:06.719+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:58:06.757+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:06.756+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:58:06.803+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:06.802+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:58:06.846+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.191 seconds
+[2026-04-30T08:58:37.062+0000] {processor.py:161} INFO - Started process (PID=111) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:58:37.071+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:58:37.076+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:37.075+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:58:37.198+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:58:37.233+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:37.232+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:58:37.256+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:58:37.255+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:58:37.298+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.258 seconds
+[2026-04-30T08:59:07.503+0000] {processor.py:161} INFO - Started process (PID=122) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:59:07.505+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:59:07.509+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:07.508+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:59:07.553+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:59:07.584+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:07.583+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:59:07.635+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:07.635+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:59:07.676+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.185 seconds
+[2026-04-30T08:59:37.863+0000] {processor.py:161} INFO - Started process (PID=137) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:59:37.865+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T08:59:37.867+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:37.867+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:59:37.903+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T08:59:37.930+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:37.930+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T08:59:37.955+0000] {logging_mixin.py:188} INFO - [2026-04-30T08:59:37.955+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T08:59:37.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.134 seconds
+[2026-04-30T09:00:08.766+0000] {processor.py:161} INFO - Started process (PID=147) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:00:08.769+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:00:08.772+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:08.772+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:00:08.819+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:00:08.853+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:08.852+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:00:08.875+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:08.874+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:00:08.908+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.153 seconds
+[2026-04-30T09:00:39.740+0000] {processor.py:161} INFO - Started process (PID=158) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:00:39.742+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:00:39.747+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:39.746+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:00:39.801+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:00:39.826+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:39.826+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:00:39.844+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:00:39.843+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:00:39.872+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.143 seconds
+[2026-04-30T09:01:10.523+0000] {processor.py:161} INFO - Started process (PID=169) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:01:10.525+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:01:10.529+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:10.528+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:01:10.571+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:01:10.618+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:10.617+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:01:10.639+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:10.639+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:01:10.666+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.156 seconds
+[2026-04-30T09:01:41.444+0000] {processor.py:161} INFO - Started process (PID=180) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:01:41.447+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:01:41.452+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:41.452+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:01:41.488+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:01:41.519+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:41.518+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:01:41.540+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:01:41.540+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:01:41.573+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.139 seconds
+[2026-04-30T09:02:12.230+0000] {processor.py:161} INFO - Started process (PID=191) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:02:12.233+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:02:12.238+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:12.237+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:02:12.308+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:02:12.348+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:12.347+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:02:12.370+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:12.369+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:02:12.407+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.186 seconds
+[2026-04-30T09:02:42.598+0000] {processor.py:161} INFO - Started process (PID=202) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:02:42.600+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:02:42.603+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:42.603+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:02:42.649+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:02:42.677+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:42.676+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:02:42.695+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:02:42.695+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:02:42.732+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.141 seconds
+[2026-04-30T09:03:12.919+0000] {processor.py:161} INFO - Started process (PID=213) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:03:12.921+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:03:12.924+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:12.924+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:03:12.959+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:03:12.991+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:12.991+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:03:13.011+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:13.011+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:03:13.044+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.134 seconds
+[2026-04-30T09:03:43.230+0000] {processor.py:161} INFO - Started process (PID=224) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:03:43.233+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:03:43.236+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:43.236+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:03:43.273+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:03:43.306+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:43.306+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:03:43.329+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:03:43.329+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:03:43.373+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.153 seconds
+[2026-04-30T09:04:13.767+0000] {processor.py:161} INFO - Started process (PID=235) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:04:13.768+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:04:13.772+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:13.771+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:04:13.809+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:04:13.843+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:13.842+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:04:13.863+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:13.863+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:04:13.895+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.137 seconds
+[2026-04-30T09:04:44.074+0000] {processor.py:161} INFO - Started process (PID=246) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:04:44.076+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:04:44.081+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:44.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:04:44.115+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:04:44.150+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:44.150+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:04:44.174+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:04:44.173+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:04:44.213+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.153 seconds
+[2026-04-30T09:05:14.371+0000] {processor.py:161} INFO - Started process (PID=257) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:05:14.373+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:05:14.376+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:14.375+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:05:14.410+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:05:14.440+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:14.439+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:05:14.459+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:14.459+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:05:14.731+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.368 seconds
+[2026-04-30T09:05:45.351+0000] {processor.py:161} INFO - Started process (PID=278) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:05:45.354+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:05:45.357+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:45.357+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:05:45.426+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:05:45.487+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:45.486+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:05:45.530+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:05:45.529+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:05:45.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.241 seconds
+[2026-04-30T09:06:15.963+0000] {processor.py:161} INFO - Started process (PID=300) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:06:15.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:06:15.971+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:15.970+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:06:16.023+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:06:16.081+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:16.080+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:06:16.133+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:16.132+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:06:16.198+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.247 seconds
+[2026-04-30T09:06:46.869+0000] {processor.py:161} INFO - Started process (PID=311) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:06:46.871+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:06:46.876+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:46.875+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:06:46.931+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:06:46.965+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:46.964+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:06:46.983+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:06:46.983+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:06:47.024+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.164 seconds
+[2026-04-30T09:07:17.233+0000] {processor.py:161} INFO - Started process (PID=323) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:07:17.235+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:07:17.238+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:17.237+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:07:17.269+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:07:17.302+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:17.301+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:07:17.321+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:17.320+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:07:17.364+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.139 seconds
+[2026-04-30T09:07:48.414+0000] {processor.py:161} INFO - Started process (PID=334) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:07:48.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:07:48.418+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:48.417+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:07:48.450+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:07:48.485+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:48.484+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:07:48.508+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:07:48.508+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:07:48.539+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.132 seconds
+[2026-04-30T09:08:19.378+0000] {processor.py:161} INFO - Started process (PID=345) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:08:19.380+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:08:19.383+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:19.382+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:08:19.425+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:08:19.464+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:19.463+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:08:19.496+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:19.496+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:08:19.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.162 seconds
+[2026-04-30T09:08:50.404+0000] {processor.py:161} INFO - Started process (PID=356) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:08:50.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:08:50.409+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:50.408+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:08:50.444+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:08:50.476+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:50.476+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:08:50.495+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:08:50.495+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:08:50.523+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.127 seconds
+[2026-04-30T09:09:21.417+0000] {processor.py:161} INFO - Started process (PID=367) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:09:21.419+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:09:21.422+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:21.421+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:09:21.465+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:09:21.496+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:21.496+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:09:21.521+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:21.520+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:09:21.556+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.148 seconds
+[2026-04-30T09:09:52.394+0000] {processor.py:161} INFO - Started process (PID=384) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:09:52.395+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:09:52.399+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:52.398+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:09:52.436+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:09:52.471+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:52.470+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:09:52.494+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:09:52.494+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:09:52.529+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.143 seconds
+[2026-04-30T09:10:22.713+0000] {processor.py:161} INFO - Started process (PID=395) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:10:22.715+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:10:22.721+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:22.721+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:10:22.774+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:10:22.822+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:22.821+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:10:22.853+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:22.853+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:10:22.894+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.200 seconds
+[2026-04-30T09:10:53.630+0000] {processor.py:161} INFO - Started process (PID=410) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:10:53.631+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:10:53.634+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:53.634+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:10:53.670+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:10:53.701+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:53.700+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:10:53.720+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:10:53.720+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:10:53.750+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.127 seconds
+[2026-04-30T09:11:23.883+0000] {processor.py:161} INFO - Started process (PID=421) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:11:23.884+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:11:23.888+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:23.887+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:11:23.927+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:11:23.960+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:23.960+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:11:23.982+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:23.981+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:11:24.018+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.144 seconds
+[2026-04-30T09:11:54.713+0000] {processor.py:161} INFO - Started process (PID=432) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:11:54.715+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:11:54.720+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:54.720+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:11:54.756+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:11:54.787+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:54.786+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:11:54.805+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:11:54.804+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:11:54.833+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.128 seconds
+[2026-04-30T09:12:25.490+0000] {processor.py:161} INFO - Started process (PID=443) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:12:25.492+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:12:25.497+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:25.497+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:12:25.537+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:12:25.570+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:25.569+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:12:25.595+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:25.595+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:12:25.627+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.146 seconds
+[2026-04-30T09:12:56.444+0000] {processor.py:161} INFO - Started process (PID=455) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:12:56.447+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:12:56.456+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:56.456+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:12:56.521+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:12:56.570+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:56.569+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:12:56.600+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:12:56.599+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:12:56.648+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.221 seconds
+[2026-04-30T09:13:26.884+0000] {processor.py:161} INFO - Started process (PID=466) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:13:26.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:13:26.893+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:26.892+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:13:26.953+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:13:26.993+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:26.992+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:13:27.018+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:27.018+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:13:27.061+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.193 seconds
+[2026-04-30T09:13:57.235+0000] {processor.py:161} INFO - Started process (PID=478) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:13:57.240+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:13:57.245+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:57.245+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:13:57.296+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:13:57.332+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:57.332+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:13:57.360+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:13:57.359+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:13:57.404+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.182 seconds
+[2026-04-30T09:14:28.235+0000] {processor.py:161} INFO - Started process (PID=489) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:14:28.237+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:14:28.240+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:14:28.239+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:14:28.269+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:14:28.298+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:14:28.298+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:14:28.318+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:14:28.317+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:14:28.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.123 seconds
+[2026-04-30T09:14:59.231+0000] {processor.py:161} INFO - Started process (PID=500) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:14:59.240+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:14:59.245+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:14:59.245+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:14:59.297+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:14:59.339+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:14:59.339+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:14:59.365+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:14:59.364+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:14:59.408+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.190 seconds
+[2026-04-30T09:15:30.077+0000] {processor.py:161} INFO - Started process (PID=511) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:15:30.086+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:15:30.091+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:15:30.090+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:15:30.136+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:15:30.180+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:15:30.178+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:15:30.204+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:15:30.204+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:15:30.243+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.184 seconds
+[2026-04-30T09:16:00.898+0000] {processor.py:161} INFO - Started process (PID=522) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:16:00.900+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:16:00.905+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:00.905+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:16:00.952+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:16:00.987+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:00.986+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:16:01.015+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:01.015+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:16:01.056+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.170 seconds
+[2026-04-30T09:16:31.793+0000] {processor.py:161} INFO - Started process (PID=534) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:16:31.796+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:16:31.803+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:31.801+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:16:31.852+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:16:31.888+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:31.888+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:16:31.913+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:16:31.913+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:16:31.961+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.180 seconds
+[2026-04-30T09:17:02.734+0000] {processor.py:161} INFO - Started process (PID=545) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:17:02.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:17:02.741+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:02.741+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:17:02.774+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:17:02.802+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:02.801+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:17:02.819+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:02.818+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:17:02.850+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.124 seconds
+[2026-04-30T09:17:33.682+0000] {processor.py:161} INFO - Started process (PID=556) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:17:33.683+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:17:33.686+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:33.685+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:17:33.714+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:17:33.743+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:33.743+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:17:33.765+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:17:33.765+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:17:33.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.155 seconds
+[2026-04-30T09:18:04.519+0000] {processor.py:161} INFO - Started process (PID=567) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:18:04.521+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:18:04.524+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:04.524+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:18:04.564+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:18:04.612+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:04.612+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:18:04.639+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:04.639+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:18:04.676+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.168 seconds
+[2026-04-30T09:18:35.273+0000] {processor.py:161} INFO - Started process (PID=578) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:18:35.276+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:18:35.281+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:35.280+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:18:35.323+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:18:35.363+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:35.363+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:18:35.391+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:18:35.391+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:18:35.443+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.178 seconds
+[2026-04-30T09:19:06.273+0000] {processor.py:161} INFO - Started process (PID=590) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:19:06.276+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:19:06.282+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:06.280+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:19:06.328+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:19:06.372+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:06.372+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:19:06.398+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:06.398+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:19:06.432+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.174 seconds
+[2026-04-30T09:19:37.290+0000] {processor.py:161} INFO - Started process (PID=601) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:19:37.292+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:19:37.299+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:37.298+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:19:37.380+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:19:37.428+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:37.428+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:19:37.464+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:19:37.464+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:19:37.516+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.240 seconds
+[2026-04-30T09:20:08.399+0000] {processor.py:161} INFO - Started process (PID=612) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:20:08.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:20:08.413+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:08.412+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:20:08.467+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:20:08.521+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:08.520+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:20:08.564+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:08.564+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:20:08.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.218 seconds
+[2026-04-30T09:20:39.344+0000] {processor.py:161} INFO - Started process (PID=623) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:20:39.348+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:20:39.353+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:39.353+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:20:39.415+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:20:39.461+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:39.460+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:20:39.492+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:20:39.491+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:20:39.549+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.217 seconds
+[2026-04-30T09:21:09.710+0000] {processor.py:161} INFO - Started process (PID=634) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:21:09.712+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:21:09.717+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:09.716+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:21:09.749+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:21:09.792+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:09.792+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:21:09.815+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:09.814+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:21:09.855+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.157 seconds
+[2026-04-30T09:21:40.672+0000] {processor.py:161} INFO - Started process (PID=645) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:21:40.674+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:21:40.679+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:40.678+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:21:40.716+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:21:40.751+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:40.751+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:21:40.777+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:21:40.777+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:21:40.820+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.159 seconds
+[2026-04-30T09:22:11.175+0000] {processor.py:161} INFO - Started process (PID=656) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:22:11.177+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:22:11.183+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:11.182+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:22:11.238+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:22:11.272+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:11.272+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:22:11.296+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:11.295+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:22:11.331+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.169 seconds
+[2026-04-30T09:22:41.930+0000] {processor.py:161} INFO - Started process (PID=668) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:22:41.934+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:22:41.942+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:41.940+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:22:42.029+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:22:42.083+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:42.082+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:22:42.110+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:22:42.110+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:22:42.158+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.241 seconds
+[2026-04-30T09:23:12.448+0000] {processor.py:161} INFO - Started process (PID=679) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:23:12.450+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:23:12.455+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:12.454+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:23:12.500+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:23:12.534+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:12.534+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:23:12.567+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:12.566+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:23:12.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.170 seconds
+[2026-04-30T09:23:43.270+0000] {processor.py:161} INFO - Started process (PID=690) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:23:43.271+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:23:43.277+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:43.276+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:23:43.309+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:23:43.343+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:43.342+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:23:43.367+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:23:43.366+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:23:43.408+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.150 seconds
+[2026-04-30T09:24:14.278+0000] {processor.py:161} INFO - Started process (PID=701) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:24:14.280+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:24:14.283+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:14.283+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:24:14.321+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:24:14.357+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:14.357+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:24:14.378+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:14.378+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:24:14.415+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.147 seconds
+[2026-04-30T09:24:45.309+0000] {processor.py:161} INFO - Started process (PID=712) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:24:45.311+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:24:45.315+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:45.315+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:24:45.361+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:24:45.408+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:45.407+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:24:45.436+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:24:45.436+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:24:45.481+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.187 seconds
+[2026-04-30T09:25:16.276+0000] {processor.py:161} INFO - Started process (PID=723) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:25:16.278+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:25:16.283+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:16.282+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:25:16.323+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:25:16.359+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:16.359+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:25:16.385+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:16.384+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:25:16.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.160 seconds
+[2026-04-30T09:25:47.197+0000] {processor.py:161} INFO - Started process (PID=734) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:25:47.199+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:25:47.202+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:47.202+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:25:47.241+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:25:47.268+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:47.267+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:25:47.285+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:25:47.285+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:25:47.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.130 seconds
+[2026-04-30T09:26:18.121+0000] {processor.py:161} INFO - Started process (PID=745) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:26:18.123+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:26:18.127+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:18.126+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:26:18.159+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:26:18.189+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:18.189+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:26:18.207+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:18.207+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:26:18.240+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.128 seconds
+[2026-04-30T09:26:48.439+0000] {processor.py:161} INFO - Started process (PID=756) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:26:48.441+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:26:48.444+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:48.444+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:26:48.483+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:26:48.516+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:48.516+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:26:48.535+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:26:48.535+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:26:48.565+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.134 seconds
+[2026-04-30T09:27:19.388+0000] {processor.py:161} INFO - Started process (PID=768) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:27:19.389+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:27:19.392+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:19.392+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:27:19.423+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:27:19.452+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:19.452+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:27:19.469+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:19.468+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:27:19.497+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.117 seconds
+[2026-04-30T09:27:50.108+0000] {processor.py:161} INFO - Started process (PID=779) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:27:50.109+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:27:50.112+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:50.112+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:27:50.149+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:27:50.184+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:50.184+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:27:50.203+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:27:50.203+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:27:50.238+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.138 seconds
+[2026-04-30T09:28:21.160+0000] {processor.py:161} INFO - Started process (PID=790) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:28:21.161+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:28:21.167+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:21.166+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:28:21.210+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:28:21.246+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:21.245+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:28:21.266+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:21.266+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:28:21.304+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.154 seconds
+[2026-04-30T09:28:52.081+0000] {processor.py:161} INFO - Started process (PID=801) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:28:52.084+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:28:52.090+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:52.089+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:28:52.282+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:28:52.343+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:52.343+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:28:52.385+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:28:52.385+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:28:52.434+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.366 seconds
+[2026-04-30T09:29:22.526+0000] {processor.py:161} INFO - Started process (PID=812) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:29:22.527+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:29:22.531+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:22.530+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:29:22.563+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:29:22.594+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:22.594+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:29:22.614+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:22.614+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:29:22.648+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.130 seconds
+[2026-04-30T09:29:53.470+0000] {processor.py:161} INFO - Started process (PID=823) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:29:53.472+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:29:53.476+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:53.475+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:29:53.517+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:29:53.560+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:53.560+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:29:53.590+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:29:53.589+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:29:53.632+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.175 seconds
+[2026-04-30T09:30:23.802+0000] {processor.py:161} INFO - Started process (PID=834) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:30:23.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:30:23.807+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:23.806+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:30:23.848+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:30:23.878+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:23.878+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:30:23.897+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:23.897+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:30:23.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.136 seconds
+[2026-04-30T09:30:54.608+0000] {processor.py:161} INFO - Started process (PID=845) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:30:54.610+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:30:54.613+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:54.612+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:30:54.652+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:30:54.683+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:54.683+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:30:54.701+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:30:54.701+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:30:54.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.136 seconds
+[2026-04-30T09:31:25.026+0000] {processor.py:161} INFO - Started process (PID=856) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:31:25.027+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:31:25.031+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:25.030+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:31:25.063+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:31:25.095+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:25.094+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:31:25.114+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:25.114+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:31:25.155+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.139 seconds
+[2026-04-30T09:31:56.103+0000] {processor.py:161} INFO - Started process (PID=868) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:31:56.105+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:31:56.108+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:56.108+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:31:56.142+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:31:56.180+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:56.180+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:31:56.200+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:31:56.199+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:31:56.232+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.140 seconds
+[2026-04-30T09:32:27.090+0000] {processor.py:161} INFO - Started process (PID=885) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:32:27.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:32:27.096+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:32:27.095+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:32:27.130+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:32:27.170+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:32:27.170+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:32:27.188+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:32:27.188+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:32:27.223+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.142 seconds
+[2026-04-30T09:32:58.017+0000] {processor.py:161} INFO - Started process (PID=896) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:32:58.019+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:32:58.022+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:32:58.021+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:32:58.056+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:32:58.087+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:32:58.087+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:32:58.118+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:32:58.117+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:32:58.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.151 seconds
+[2026-04-30T09:33:29.106+0000] {processor.py:161} INFO - Started process (PID=907) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:33:29.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:33:29.110+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:29.110+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:33:29.142+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:33:29.174+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:29.173+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:33:29.197+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:29.197+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:33:29.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.131 seconds
+[2026-04-30T09:33:59.375+0000] {processor.py:161} INFO - Started process (PID=918) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:33:59.376+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:33:59.379+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:59.379+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:33:59.418+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:33:59.450+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:59.450+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:33:59.468+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:33:59.468+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:33:59.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.132 seconds
+[2026-04-30T09:34:30.226+0000] {processor.py:161} INFO - Started process (PID=929) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:34:30.227+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:34:30.230+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:34:30.230+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:34:30.276+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:34:30.312+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:34:30.312+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:34:30.335+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:34:30.334+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:34:30.377+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.161 seconds
+[2026-04-30T09:35:00.605+0000] {processor.py:161} INFO - Started process (PID=940) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:35:00.609+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:35:00.612+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:00.612+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:35:00.643+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:35:00.678+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:00.677+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:35:00.700+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:00.699+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:35:00.737+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.143 seconds
+[2026-04-30T09:35:30.887+0000] {processor.py:161} INFO - Started process (PID=951) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:35:30.889+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:35:30.892+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:30.892+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:35:30.927+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:35:30.962+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:30.962+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:35:30.982+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:35:30.982+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:35:31.016+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.139 seconds
+[2026-04-30T09:36:01.214+0000] {processor.py:161} INFO - Started process (PID=963) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:36:01.215+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:36:01.219+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:01.218+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:36:01.257+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:36:01.286+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:01.286+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:36:01.310+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:01.310+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:36:01.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.142 seconds
+[2026-04-30T09:36:32.339+0000] {processor.py:161} INFO - Started process (PID=974) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:36:32.341+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:36:32.348+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:32.347+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:36:32.403+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:36:32.437+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:32.437+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:36:32.459+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:36:32.458+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:36:32.493+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.163 seconds
+[2026-04-30T09:37:02.601+0000] {processor.py:161} INFO - Started process (PID=985) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:37:02.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:37:02.606+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:02.605+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:37:02.639+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:37:02.673+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:02.672+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:37:02.702+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:02.701+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:37:02.759+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.167 seconds
+[2026-04-30T09:37:33.563+0000] {processor.py:161} INFO - Started process (PID=996) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:37:33.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:37:33.572+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:33.571+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:37:33.620+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:37:33.659+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:33.658+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:37:33.693+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:37:33.692+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:37:33.739+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.191 seconds
+[2026-04-30T09:38:04.679+0000] {processor.py:161} INFO - Started process (PID=1007) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:38:04.681+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:38:04.685+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:04.684+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:38:04.720+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:38:04.766+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:04.766+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:38:04.805+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:04.804+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:38:04.841+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.171 seconds
+[2026-04-30T09:38:34.970+0000] {processor.py:161} INFO - Started process (PID=1018) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:38:34.972+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:38:34.975+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:34.975+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:38:35.013+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:38:35.053+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:35.052+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:38:35.076+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:38:35.076+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:38:35.134+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.173 seconds
+[2026-04-30T09:39:05.951+0000] {processor.py:161} INFO - Started process (PID=1029) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:39:05.953+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:39:05.957+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:05.957+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:39:06.001+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:39:06.035+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:06.035+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:39:06.062+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:06.061+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:39:06.102+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.162 seconds
+[2026-04-30T09:39:36.938+0000] {processor.py:161} INFO - Started process (PID=1040) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:39:36.940+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:39:36.944+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:36.943+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:39:36.985+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:39:37.017+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:37.017+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:39:37.036+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:39:37.036+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:39:37.073+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.146 seconds
+[2026-04-30T09:40:07.902+0000] {processor.py:161} INFO - Started process (PID=1051) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:40:07.904+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:40:07.907+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:07.906+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:40:07.942+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:40:07.977+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:07.977+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:40:08.004+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:08.004+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:40:08.043+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.150 seconds
+[2026-04-30T09:40:38.859+0000] {processor.py:161} INFO - Started process (PID=1062) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:40:38.860+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:40:38.863+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:38.862+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:40:38.907+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:40:38.941+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:38.941+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:40:38.969+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:40:38.968+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:40:39.006+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.154 seconds
+[2026-04-30T09:41:09.799+0000] {processor.py:161} INFO - Started process (PID=1073) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:41:09.801+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:41:09.803+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:09.803+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:41:09.834+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:41:09.869+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:09.868+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:41:09.890+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:09.890+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:41:09.924+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.134 seconds
+[2026-04-30T09:41:40.552+0000] {processor.py:161} INFO - Started process (PID=1084) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:41:40.554+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:41:40.558+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:40.558+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:41:40.593+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:41:40.623+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:40.623+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:41:40.642+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:41:40.642+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:41:40.676+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.133 seconds
+[2026-04-30T09:42:11.467+0000] {processor.py:161} INFO - Started process (PID=1095) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:42:11.469+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:42:11.474+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:11.472+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:42:11.524+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:42:11.564+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:11.564+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:42:11.582+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:11.581+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:42:11.621+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.165 seconds
+[2026-04-30T09:42:42.689+0000] {processor.py:161} INFO - Started process (PID=1106) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:42:42.693+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:42:42.701+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:42.700+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:42:42.807+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:42:42.848+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:42.848+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:42:42.876+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:42:42.876+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:42:42.925+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.248 seconds
+[2026-04-30T09:43:13.886+0000] {processor.py:161} INFO - Started process (PID=1117) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:43:13.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:43:13.891+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:13.891+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:43:13.927+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:43:13.956+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:13.955+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:43:13.974+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:13.974+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:43:14.010+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.131 seconds
+[2026-04-30T09:43:44.157+0000] {processor.py:161} INFO - Started process (PID=1128) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:43:44.159+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:43:44.163+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:44.162+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:43:44.196+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:43:44.232+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:44.231+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:43:44.259+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:43:44.259+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:43:44.308+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.163 seconds
+[2026-04-30T09:44:15.154+0000] {processor.py:161} INFO - Started process (PID=1140) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:44:15.156+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:44:15.161+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:15.158+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:44:15.199+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:44:15.232+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:15.232+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:44:15.250+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:15.250+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:44:15.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.139 seconds
+[2026-04-30T09:44:46.109+0000] {processor.py:161} INFO - Started process (PID=1151) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:44:46.111+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:44:46.116+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:46.115+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:44:46.171+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:44:46.228+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:46.227+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:44:46.256+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:44:46.256+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:44:46.310+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.214 seconds
+[2026-04-30T09:45:16.984+0000] {processor.py:161} INFO - Started process (PID=1162) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:45:16.987+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:45:16.990+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:16.990+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:45:17.030+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:45:17.065+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:17.064+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:45:17.094+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:17.094+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:45:17.140+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.166 seconds
+[2026-04-30T09:45:47.959+0000] {processor.py:161} INFO - Started process (PID=1173) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:45:47.961+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:45:47.967+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:47.967+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:45:48.001+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:45:48.033+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:48.033+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:45:48.058+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:45:48.058+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:45:48.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.142 seconds
+[2026-04-30T09:46:18.802+0000] {processor.py:161} INFO - Started process (PID=1184) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:46:18.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:46:18.806+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:18.806+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:46:18.840+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:46:18.870+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:18.870+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:46:18.889+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:18.889+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:46:18.928+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.134 seconds
+[2026-04-30T09:46:49.073+0000] {processor.py:161} INFO - Started process (PID=1195) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:46:49.075+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:46:49.078+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:49.077+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:46:49.112+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:46:49.144+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:49.144+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:46:49.166+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:46:49.166+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:46:49.207+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.144 seconds
+[2026-04-30T09:47:20.027+0000] {processor.py:161} INFO - Started process (PID=1206) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:47:20.029+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:47:20.031+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:20.031+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:47:20.063+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:47:20.095+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:20.094+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:47:20.112+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:20.112+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:47:20.141+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.124 seconds
+[2026-04-30T09:47:51.087+0000] {processor.py:161} INFO - Started process (PID=1217) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:47:51.089+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:47:51.092+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:51.091+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:47:51.128+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:47:51.159+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:51.159+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:47:51.180+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:47:51.179+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:47:51.218+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.139 seconds
+[2026-04-30T09:48:21.574+0000] {processor.py:161} INFO - Started process (PID=1228) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:48:21.576+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:48:21.579+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:21.578+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:48:21.615+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:48:21.644+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:21.643+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:48:21.663+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:21.663+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:48:21.696+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.131 seconds
+[2026-04-30T09:48:52.350+0000] {processor.py:161} INFO - Started process (PID=1239) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:48:52.352+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:48:52.355+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:52.354+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:48:52.392+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:48:52.430+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:52.430+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:48:52.455+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:48:52.454+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:48:52.493+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.153 seconds
+[2026-04-30T09:49:23.339+0000] {processor.py:161} INFO - Started process (PID=1250) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:49:23.344+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:49:23.349+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:23.348+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:49:23.491+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:49:23.555+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:23.554+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:49:23.591+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:23.590+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:49:23.644+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.321 seconds
+[2026-04-30T09:49:53.828+0000] {processor.py:161} INFO - Started process (PID=1261) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:49:53.830+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:49:53.834+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:53.833+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:49:53.877+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:49:53.911+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:53.910+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:49:53.931+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:49:53.931+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:49:53.971+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.151 seconds
+[2026-04-30T09:50:24.793+0000] {processor.py:161} INFO - Started process (PID=1272) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:50:24.796+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:50:24.799+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:24.798+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:50:24.850+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:50:24.886+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:24.886+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:50:24.912+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:24.911+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:50:24.956+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.172 seconds
+[2026-04-30T09:50:55.558+0000] {processor.py:161} INFO - Started process (PID=1283) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:50:55.560+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:50:55.564+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:55.564+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:50:55.601+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:50:55.632+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:55.632+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:50:55.655+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:50:55.655+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:50:55.692+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.143 seconds
+[2026-04-30T09:51:26.337+0000] {processor.py:161} INFO - Started process (PID=1294) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:51:26.340+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:51:26.345+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:26.344+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:51:26.389+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:51:26.427+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:26.427+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:51:26.720+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:26.719+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:51:26.766+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.440 seconds
+[2026-04-30T09:51:56.910+0000] {processor.py:161} INFO - Started process (PID=1306) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:51:56.912+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:51:56.916+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:56.915+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:51:56.961+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:51:56.998+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:56.997+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:51:57.026+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:51:57.025+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:51:57.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.186 seconds
+[2026-04-30T09:52:27.511+0000] {processor.py:161} INFO - Started process (PID=1317) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:52:27.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:52:27.517+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:52:27.516+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:52:27.569+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:52:27.607+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:52:27.607+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:52:27.632+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:52:27.631+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:52:27.675+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.173 seconds
+[2026-04-30T09:52:58.505+0000] {processor.py:161} INFO - Started process (PID=1328) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:52:58.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:52:58.510+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:52:58.509+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:52:58.541+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:52:58.568+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:52:58.568+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:52:58.769+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:52:58.769+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:52:58.795+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.299 seconds
+[2026-04-30T09:53:28.943+0000] {processor.py:161} INFO - Started process (PID=1339) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:53:28.946+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:53:28.949+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:53:28.949+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:53:28.999+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:53:29.032+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:53:29.031+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:53:29.049+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:53:29.049+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:53:29.081+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.146 seconds
+[2026-04-30T09:54:00.119+0000] {processor.py:161} INFO - Started process (PID=1350) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:54:00.121+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:54:00.126+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:00.125+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:54:00.170+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:54:00.203+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:00.203+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:54:00.223+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:00.222+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:54:00.258+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.148 seconds
+[2026-04-30T09:54:30.859+0000] {processor.py:161} INFO - Started process (PID=1361) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:54:30.862+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:54:30.865+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:30.865+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:54:30.918+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:54:30.963+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:30.963+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:54:31.266+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:54:31.265+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:54:31.307+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.459 seconds
+[2026-04-30T09:55:02.118+0000] {processor.py:161} INFO - Started process (PID=1379) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:55:02.120+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:55:02.123+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:02.123+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:55:02.156+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:55:02.187+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:02.187+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:55:02.208+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:02.208+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:55:02.238+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.129 seconds
+[2026-04-30T09:55:32.998+0000] {processor.py:161} INFO - Started process (PID=1389) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:55:33.001+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:55:33.008+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:33.007+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:55:33.067+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:55:33.119+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:33.119+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:55:33.154+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:55:33.152+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:55:33.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.235 seconds
+[2026-04-30T09:56:03.772+0000] {processor.py:161} INFO - Started process (PID=1400) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:56:03.775+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:56:03.781+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:03.781+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:56:03.885+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:56:03.936+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:03.934+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:56:04.175+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:04.175+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:56:04.218+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.457 seconds
+[2026-04-30T09:56:34.349+0000] {processor.py:161} INFO - Started process (PID=1411) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:56:34.361+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:56:34.366+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:34.365+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:56:34.409+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:56:34.452+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:34.452+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:56:34.485+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:56:34.484+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:56:34.546+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.210 seconds
+[2026-04-30T09:57:05.286+0000] {processor.py:161} INFO - Started process (PID=1422) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:57:05.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:57:05.293+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:05.292+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:57:05.328+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:57:05.363+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:05.362+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:57:05.389+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:05.388+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:57:05.425+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.149 seconds
+[2026-04-30T09:57:35.601+0000] {processor.py:161} INFO - Started process (PID=1432) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:57:35.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:57:35.606+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:35.605+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:57:35.662+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:57:35.711+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:35.710+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:57:36.007+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:57:36.007+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:57:36.045+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.457 seconds
+[2026-04-30T09:58:06.300+0000] {processor.py:161} INFO - Started process (PID=1443) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:58:06.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:58:06.307+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:06.306+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:58:06.371+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:58:06.413+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:06.412+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:58:06.434+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:06.433+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:58:06.471+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.183 seconds
+[2026-04-30T09:58:36.601+0000] {processor.py:161} INFO - Started process (PID=1454) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:58:36.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:58:36.607+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:36.606+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:58:36.645+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:58:36.680+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:36.680+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:58:36.705+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:58:36.705+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:58:36.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.154 seconds
+[2026-04-30T09:59:07.140+0000] {processor.py:161} INFO - Started process (PID=1465) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:59:07.142+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:59:07.145+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:07.144+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:59:07.181+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:59:07.210+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:07.210+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:59:07.429+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:07.428+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:59:07.461+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.329 seconds
+[2026-04-30T09:59:38.130+0000] {processor.py:161} INFO - Started process (PID=1476) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:59:38.132+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T09:59:38.135+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:38.134+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:59:38.168+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T09:59:38.195+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:38.195+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T09:59:38.217+0000] {logging_mixin.py:188} INFO - [2026-04-30T09:59:38.216+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T09:59:38.252+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.131 seconds
+[2026-04-30T10:00:08.534+0000] {processor.py:161} INFO - Started process (PID=1487) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T10:00:08.538+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T10:00:08.542+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:08.542+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T10:00:08.601+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T10:00:08.658+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:08.658+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T10:00:08.680+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:08.680+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T10:00:08.740+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.223 seconds
+[2026-04-30T10:00:39.217+0000] {processor.py:161} INFO - Started process (PID=1499) to work on /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T10:00:39.228+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/nyc_fhv_silver.py for tasks to queue
+[2026-04-30T10:00:39.234+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:39.233+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T10:00:39.288+0000] {processor.py:840} INFO - DAG(s) 'nyc_fhv_silver' retrieved from /opt/airflow/dags/nyc_fhv_silver.py
+[2026-04-30T10:00:39.329+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:39.328+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-04-30T10:00:39.355+0000] {logging_mixin.py:188} INFO - [2026-04-30T10:00:39.355+0000] {dag.py:3954} INFO - Setting next_dagrun for nyc_fhv_silver to None, run_after=None
+[2026-04-30T10:00:39.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/nyc_fhv_silver.py took 0.187 seconds

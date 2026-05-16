@@ -1,0 +1,26 @@
+[2026-05-08T19:38:17.304+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-05-08T19:38:17.323+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: newyork_fhv_silver.clean_and_transform manual__2026-05-08T19:38:16.426143+00:00 [queued]>
+[2026-05-08T19:38:17.332+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: newyork_fhv_silver.clean_and_transform manual__2026-05-08T19:38:16.426143+00:00 [queued]>
+[2026-05-08T19:38:17.335+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2026-05-08T19:38:17.348+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): clean_and_transform> on 2026-05-08 19:38:16.426143+00:00
+[2026-05-08T19:38:17.354+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=570) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-05-08T19:38:17.356+0000] {standard_task_runner.py:63} INFO - Started process 571 to run task
+[2026-05-08T19:38:17.356+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'newyork_fhv_silver', 'clean_and_transform', 'manual__2026-05-08T19:38:16.426143+00:00', '--job-id', '68', '--raw', '--subdir', 'DAGS_FOLDER/newyork_fhv_silver.py', '--cfg-path', '/tmp/tmp_g2bvw1d']
+[2026-05-08T19:38:17.358+0000] {standard_task_runner.py:91} INFO - Job 68: Subtask clean_and_transform
+[2026-05-08T19:38:17.427+0000] {task_command.py:426} INFO - Running <TaskInstance: newyork_fhv_silver.clean_and_transform manual__2026-05-08T19:38:16.426143+00:00 [running]> on host 2c41721f40ae
+[2026-05-08T19:38:17.509+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='newyork_fhv_silver' AIRFLOW_CTX_TASK_ID='clean_and_transform' AIRFLOW_CTX_EXECUTION_DATE='2026-05-08T19:38:16.426143+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-05-08T19:38:16.426143+00:00'
+[2026-05-08T19:38:17.510+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-05-08T19:38:17.525+0000] {logging_mixin.py:188} INFO - [Silver] Reading from: /opt/***/data/bronze/newyork_fhv_base_aggregate_raw.json
+[2026-05-08T19:38:17.755+0000] {logging_mixin.py:188} INFO - [Silver] Raw records: 50000
+[2026-05-08T19:38:17.757+0000] {logging_mixin.py:188} INFO - [Silver] After cleaning   : 0
+[2026-05-08T19:38:17.757+0000] {logging_mixin.py:188} INFO - [Silver] After dedup      : 0
+[2026-05-08T19:38:17.758+0000] {logging_mixin.py:188} INFO - [Silver] Removed (dupes)  : 0
+[2026-05-08T19:38:17.762+0000] {logging_mixin.py:188} INFO - [Silver] Saved to: /opt/***/data/silver/newyork_fhv_base_aggregate_cleaned.json
+[2026-05-08T19:38:17.770+0000] {python.py:237} INFO - Done. Returned value was: 0
+[2026-05-08T19:38:17.770+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-05-08T19:38:17.794+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=newyork_fhv_silver, task_id=clean_and_transform, run_id=manual__2026-05-08T19:38:16.426143+00:00, execution_date=20260508T193816, start_date=20260508T193817, end_date=20260508T193817
+[2026-05-08T19:38:17.810+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-05-08T19:38:17.824+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-05-08T19:38:17.826+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

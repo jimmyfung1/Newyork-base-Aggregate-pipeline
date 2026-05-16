@@ -1,0 +1,26 @@
+[2026-05-08T19:39:46.666+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-05-08T19:39:46.712+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: newyork_fhv_gold.build_gold_metrics manual__2026-05-08T19:39:45.213066+00:00 [queued]>
+[2026-05-08T19:39:46.728+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: newyork_fhv_gold.build_gold_metrics manual__2026-05-08T19:39:45.213066+00:00 [queued]>
+[2026-05-08T19:39:46.730+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2026-05-08T19:39:46.761+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): build_gold_metrics> on 2026-05-08 19:39:45.213066+00:00
+[2026-05-08T19:39:46.770+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=610) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-05-08T19:39:46.773+0000] {standard_task_runner.py:63} INFO - Started process 611 to run task
+[2026-05-08T19:39:46.773+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'newyork_fhv_gold', 'build_gold_metrics', 'manual__2026-05-08T19:39:45.213066+00:00', '--job-id', '81', '--raw', '--subdir', 'DAGS_FOLDER/newyork_fhv_gold.py', '--cfg-path', '/tmp/tmpmoovavqb']
+[2026-05-08T19:39:46.776+0000] {standard_task_runner.py:91} INFO - Job 81: Subtask build_gold_metrics
+[2026-05-08T19:39:46.876+0000] {task_command.py:426} INFO - Running <TaskInstance: newyork_fhv_gold.build_gold_metrics manual__2026-05-08T19:39:45.213066+00:00 [running]> on host 2c41721f40ae
+[2026-05-08T19:39:46.970+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='newyork_fhv_gold' AIRFLOW_CTX_TASK_ID='build_gold_metrics' AIRFLOW_CTX_EXECUTION_DATE='2026-05-08T19:39:45.213066+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-05-08T19:39:45.213066+00:00'
+[2026-05-08T19:39:46.971+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-05-08T19:39:46.998+0000] {logging_mixin.py:188} INFO - [Gold] Reading from: /opt/***/data/silver/newyork_fhv_base_aggregate_cleaned.json
+[2026-05-08T19:39:47.003+0000] {logging_mixin.py:188} INFO - [Gold] Silver records: 0
+[2026-05-08T19:39:47.007+0000] {logging_mixin.py:188} INFO - [Gold] Total bases        : 0
+[2026-05-08T19:39:47.007+0000] {logging_mixin.py:188} INFO - [Gold] Grand total trips  : 0
+[2026-05-08T19:39:47.008+0000] {logging_mixin.py:188} INFO - [Gold] Grand total shared : 0
+[2026-05-08T19:39:47.008+0000] {logging_mixin.py:188} INFO - [Gold] Saved to           : /opt/***/data/gold/newyork_fhv_base_aggregate_metrics.json
+[2026-05-08T19:39:47.009+0000] {python.py:237} INFO - Done. Returned value was: {'total_bases': 0, 'grand_total_dispatched_trips': 0, 'grand_total_shared_trips': 0, 'total_records_processed': 0}
+[2026-05-08T19:39:47.009+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-05-08T19:39:47.037+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=newyork_fhv_gold, task_id=build_gold_metrics, run_id=manual__2026-05-08T19:39:45.213066+00:00, execution_date=20260508T193945, start_date=20260508T193946, end_date=20260508T193947
+[2026-05-08T19:39:47.070+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-05-08T19:39:47.097+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-05-08T19:39:47.101+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

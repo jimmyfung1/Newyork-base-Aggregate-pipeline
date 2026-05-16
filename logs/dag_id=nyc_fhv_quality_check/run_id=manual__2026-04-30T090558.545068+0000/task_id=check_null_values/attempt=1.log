@@ -1,0 +1,22 @@
+[2026-04-30T09:06:02.338+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-04-30T09:06:02.420+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: nyc_fhv_quality_check.check_null_values manual__2026-04-30T09:05:58.545068+00:00 [queued]>
+[2026-04-30T09:06:02.448+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: nyc_fhv_quality_check.check_null_values manual__2026-04-30T09:05:58.545068+00:00 [queued]>
+[2026-04-30T09:06:02.453+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2026-04-30T09:06:02.503+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): check_null_values> on 2026-04-30 09:05:58.545068+00:00
+[2026-04-30T09:06:02.522+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=218) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-04-30T09:06:02.540+0000] {standard_task_runner.py:63} INFO - Started process 225 to run task
+[2026-04-30T09:06:02.548+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'nyc_fhv_quality_check', 'check_null_values', 'manual__2026-04-30T09:05:58.545068+00:00', '--job-id', '24', '--raw', '--subdir', 'DAGS_FOLDER/nyc_fhv_quality_check.py', '--cfg-path', '/tmp/tmpcdo0znu2']
+[2026-04-30T09:06:02.556+0000] {standard_task_runner.py:91} INFO - Job 24: Subtask check_null_values
+[2026-04-30T09:06:02.835+0000] {task_command.py:426} INFO - Running <TaskInstance: nyc_fhv_quality_check.check_null_values manual__2026-04-30T09:05:58.545068+00:00 [running]> on host 129dc407573d
+[2026-04-30T09:06:03.126+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='nyc_fhv_quality_check' AIRFLOW_CTX_TASK_ID='check_null_values' AIRFLOW_CTX_EXECUTION_DATE='2026-04-30T09:05:58.545068+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-04-30T09:05:58.545068+00:00'
+[2026-04-30T09:06:03.140+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-04-30T09:06:04.548+0000] {logging_mixin.py:188} INFO - [QC] WARNING: Column 'base_number' has 50000 null values
+[2026-04-30T09:06:04.578+0000] {logging_mixin.py:188} INFO - [QC] Null check report: {'base_number': 50000, 'base_name': 0, 'year': 0, 'month': 0, 'total_dispatched_trips': 0, 'unique_dispatched_vehicles': 0}
+[2026-04-30T09:06:04.630+0000] {python.py:237} INFO - Done. Returned value was: {'base_number': 50000, 'base_name': 0, 'year': 0, 'month': 0, 'total_dispatched_trips': 0, 'unique_dispatched_vehicles': 0}
+[2026-04-30T09:06:04.631+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-04-30T09:06:04.677+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=nyc_fhv_quality_check, task_id=check_null_values, run_id=manual__2026-04-30T09:05:58.545068+00:00, execution_date=20260430T090558, start_date=20260430T090602, end_date=20260430T090604
+[2026-04-30T09:06:04.753+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-04-30T09:06:04.852+0000] {taskinstance.py:3498} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2026-04-30T09:06:04.863+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
